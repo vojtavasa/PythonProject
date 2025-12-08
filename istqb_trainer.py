@@ -242,7 +242,12 @@ def main():
     st.title("ISTQB Trainer")
 
     # ---- USER / LOGIN ----
-    username = st.sidebar.text_input("User / přezdívka", value="vojta")
+    username = st.sidebar.text_input(
+        "User / přezdívka",
+        value="",
+        placeholder="vaše přezdívka"
+    )
+
     if not username.strip():
         st.warning("Zadej prosím jméno / přezdívku v levém panelu.")
         st.stop()
