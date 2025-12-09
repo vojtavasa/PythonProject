@@ -245,7 +245,7 @@ def main():
     username = st.sidebar.text_input(
         "User / přezdívka",
         value="",
-        placeholder="vaše přezdívka"
+        placeholder="Vaše přezdívka"
     )
 
     if not username.strip():
