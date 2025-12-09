@@ -71,6 +71,8 @@ def parse_questions(text: str):
         question_text = " ".join(question_lines).strip()
         options = [option_map.get(ch, "") for ch in "abcd"]
 
+        question_text, options = move_instruction_from_last_option_to_question(question_text, options)
+
         result[q_number] = {
             "question": question_text,
             "options": options,
@@ -97,6 +99,36 @@ def parse_answer_key(text: str):
             letter = m.group(2).lower()
             key[q_num] = letter
     return key
+
+
+def move_instruction_from_last_option_to_question(question_text: str, options: list[str]) -> tuple[str, list[str]]:
+    """
+    Pokud je v poslední odpovědi text typu 'Select ONE answer.',
+    přesune ho do otázky (na nový řádek).
+    """
+    if not options:
+        return question_text, options
+
+    last = options[-1]
+    markers = ["Select", "Choose"]
+
+    for marker in markers:
+        idx = last.find(marker)
+        if idx != -1:
+            before = last[:idx].strip()
+            instruction = last[idx:].strip()
+
+            options[-1] = before
+
+            question_text = question_text.rstrip()
+            if question_text:
+                question_text = question_text + "\n" + instruction
+            else:
+                question_text = instruction
+            break
+
+    return question_text, options
+
 
 
 def main():
