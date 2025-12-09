@@ -3,12 +3,12 @@
     "set": "A",
     "id": 1,
     "language": "cs",
-    "question": "Které z následujících tvrzení popisuje správný cíl testování?",
+    "question": "Které z následujících tvrzení popisuje správný cíl testování? Vyberte JEDNU odpověď.",
     "options": [
       "Prokázat, že testovaný systém neobsahuje žádné neopravené defekty.",
       "Prokázat, že po nasazení systému do produkce nedojde k selháním.",
       "Snížit úroveň rizika testovaného objektu a vybudovat důvěru v úroveň kvality.",
-      "Ověřit, že neexistují žádné netestované kombinace vstupů. Vyberte JEDNU odpověď."
+      "Ověřit, že neexistují žádné netestované kombinace vstupů."
     ],
     "correct_index": 2
   },
