@@ -34,6 +34,23 @@ def extract_text(pdf_path: Path) -> str:
         return "\n".join(texts)
 
 
+def strip_footer_en(text: str) -> str:
+    if not text:
+        return text
+    markers = [
+        "Version 1.7",
+        "© International Software Testing Qualifications Board",
+        "Release April 1, 2025",
+        "Sample Exam – Questions",
+    ]
+    for marker in markers:
+        idx = text.find(marker)
+        if idx != -1:
+            text = text[:idx].rstrip()
+    return text
+
+
+
 def parse_questions(text: str):
     """
     Vrátí dict: { číslo_otázky: { 'question': text, 'options': [a,b,c,d] } }
@@ -72,6 +89,9 @@ def parse_questions(text: str):
         options = [option_map.get(ch, "") for ch in "abcd"]
 
         question_text, options = move_instruction_from_last_option_to_question(question_text, options)
+
+        question_text = strip_footer_en(question_text)
+        options = [strip_footer_en(opt) for opt in options]
 
         result[q_number] = {
             "question": question_text,

@@ -29,7 +29,7 @@
     "set": "A",
     "id": 3,
     "language": "cs",
-    "question": "Byli jste přiřazeni jako tester do týmu, který inkrementálně vytváří nový systém. Všimli jste si, že nebyly po několik iterací provedeny žádné změny ve stávajících testovacích případech regresních testů a nebyly identifikovány žádné nové regresní defekty. Váš manažer je spokojený, ale vy ne. Který princip testování vysvětluje vaši skepsi?\nVyberte JEDNU odpověď. Verze 1.7 Strana 9 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Byli jste přiřazeni jako tester do týmu, který inkrementálně vytváří nový systém. Všimli jste si, že nebyly po několik iterací provedeny žádné změny ve stávajících testovacích případech regresních testů a nebyly identifikovány žádné nové regresní defekty. Váš manažer je spokojený, ale vy ne. Který princip testování vysvětluje vaši skepsi?\nVyberte JEDNU odpověď.",
     "options": [
       "Testy se opotřebovávají.",
       "Nepřítomnost defektů je klam.",
@@ -68,7 +68,7 @@
     "set": "A",
     "id": 6,
     "language": "cs",
-    "question": "Které DVA z následujících úkolů jsou HLAVNÍ náplní role testera?\nVyberte DVĚ možnosti. Verze 1.7 Strana 10 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Které DVA z následujících úkolů jsou HLAVNÍ náplní role testera?\nVyberte DVĚ možnosti.",
     "options": [
       "Konfigurace testovacích prostředí.",
       "Udržování produktového backlogu.",
@@ -107,7 +107,7 @@
     "set": "A",
     "id": 9,
     "language": "cs",
-    "question": "Pro které SDLC modely je platné pravidlo \"pro každou činnost SDLC existuje odpovídající testovací činnost\"?\nVyberte JEDNU odpověď. Verze 1.7 Strana 11 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Pro které SDLC modely je platné pravidlo \"pro každou činnost SDLC existuje odpovídající testovací činnost\"?\nVyberte JEDNU odpověď.",
     "options": [
       "Pouze v sekvenčních vývojových modelech.",
       "Pouze v iterativních vývojových modelech.",
@@ -146,7 +146,7 @@
     "set": "A",
     "id": 12,
     "language": "cs",
-    "question": "Který z níže uvedených argumentů byste použili, abyste přesvědčili svého manažera, aby po dokončení prací na novém vydání (release) uspořádal retrospektivu?\nVyberte JEDNU odpověď. Verze 1.7 Strana 12 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Který z níže uvedených argumentů byste použili, abyste přesvědčili svého manažera, aby po dokončení prací na novém vydání (release) uspořádal retrospektivu?\nVyberte JEDNU odpověď.",
     "options": [
       "Retrospektivy jsou v dnešní době velmi populární a klienti by ocenili, kdybychom je přidali do našich procesů.",
       "Organizování retrospektiv ušetří organizaci peníze, protože bez nich zástupci koncových uživatelů neposkytnou okamžitou zpětnou vazbu o produktu.",
@@ -172,7 +172,7 @@
     "set": "A",
     "id": 14,
     "language": "cs",
-    "question": "Testujete uživatelský scénář se třemi akceptačními kritérii: AC1, AC2 a AC3. AC1 je pokryt testovacím případem TC1, AC2 TC2 a AC3 TC3. Při dosavadním provádění testů proběhly tři testovací běhy ve třech po sobě jdoucích verzích softwaru následujícím způsobem: Běh 1 Běh 2 Běh 3 TC1 (1) Selhal (4) Prošel (7) Prošel TC2 (2) Prošel (5) Selhal (8) Prošel TC3 (3) Selhal (6) Selhal (9) Prošel Testy budou zopakovány po informaci, že všechny defekty zjištěné při běhu testu jsou opraveny a je k dispozici nová verze softwaru. Které z výše uvedených testů budou prováděny jako regresní testy?\nVyberte JEDNU odpověď. Verze 1.7 Strana 13 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Testujete uživatelský scénář se třemi akceptačními kritérii: AC1, AC2 a AC3. AC1 je pokryt testovacím případem TC1, AC2 TC2 a AC3 TC3. Při dosavadním provádění testů proběhly tři testovací běhy ve třech po sobě jdoucích verzích softwaru následujícím způsobem: Běh 1 Běh 2 Běh 3 TC1 (1) Selhal (4) Prošel (7) Prošel TC2 (2) Prošel (5) Selhal (8) Prošel TC3 (3) Selhal (6) Selhal (9) Prošel Testy budou zopakovány po informaci, že všechny defekty zjištěné při běhu testu jsou opraveny a je k dispozici nová verze softwaru. Které z výše uvedených testů budou prováděny jako regresní testy?\nVyberte JEDNU odpověď.",
     "options": [
       "Pouze 4, 7, 8, 9.",
       "Pouze 5, 7.",
@@ -224,7 +224,7 @@
     "set": "A",
     "id": 18,
     "language": "cs",
-    "question": "Které z těchto tvrzení NENÍ faktorem, který přispívá k úspěšným revizím?\nVyberte JEDNU odpověď. Verze 1.7 Strana 14 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Které z těchto tvrzení NENÍ faktorem, který přispívá k úspěšným revizím?\nVyberte JEDNU odpověď.",
     "options": [
       "Účastníci by měli revizím věnovat dostatek času.",
       "Rozdělení velkých pracovních produktů na menší části vede k tomu, že práce probíhá méně intenzivně.",
@@ -250,7 +250,7 @@
     "set": "A",
     "id": 20,
     "language": "cs",
-    "question": "Testujete zjednodušený formulář pro vyhledávání bytů, který má pouze dvě kritéria vyhledávání: • patro (se třemi možnými variantami: přízemí, první patro, druhé nebo vyšší patro), • typ zahrady (se třemi možnými variantami: žádná zahrada, malá zahrada, velká zahrada). Každý z bytů v přízemí má zahradu, byty ve vyšších patrech ji nemají. Formulář má vestavěný validační mechanismus, který vám nedovolí použít kritéria vyhledávání, která porušují toto pravidlo. Každý test má dvě vstupní hodnoty: patro a typ zahrady. Chcete použít rozdělení tříd ekvivalence (EP) tak, aby testy pokryly všechny typy pater a všechny typy zahrad. Jaký je minimální počet testovacích případů pro dosažení 100% pokrytí platných tříd ekvivalence?\nVyberte JEDNU odpověď. Verze 1.7 Strana 15 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Testujete zjednodušený formulář pro vyhledávání bytů, který má pouze dvě kritéria vyhledávání: • patro (se třemi možnými variantami: přízemí, první patro, druhé nebo vyšší patro), • typ zahrady (se třemi možnými variantami: žádná zahrada, malá zahrada, velká zahrada). Každý z bytů v přízemí má zahradu, byty ve vyšších patrech ji nemají. Formulář má vestavěný validační mechanismus, který vám nedovolí použít kritéria vyhledávání, která porušují toto pravidlo. Každý test má dvě vstupní hodnoty: patro a typ zahrady. Chcete použít rozdělení tříd ekvivalence (EP) tak, aby testy pokryly všechny typy pater a všechny typy zahrad. Jaký je minimální počet testovacích případů pro dosažení 100% pokrytí platných tříd ekvivalence?\nVyberte JEDNU odpověď.",
     "options": [
       "3",
       "4",
@@ -263,7 +263,7 @@
     "set": "A",
     "id": 21,
     "language": "cs",
-    "question": "Testujete systém, který vypočítává pro daného studenta jeho celkovou známku z určitého předmětu. Celková známka je přidělena na základě konečného výsledku podle následujících pravidel: • 0 – 50 bodů: neprospěl • 51 – 60 bodů: dostatečně • 61 – 70 bodů: uspokojivě • 71 – 80 bodů: dobře • 81 – 90 bodů: velmi dobře • 91 – 100 bodů: výborně Připravili jste následující sadu testovacích případů: Konečný Závěrečné výsledek hodnocení TC1 91 výborně TC2 50 neprospěl TC3 81 velmi dobře TC4 60 dostatečně TC5 70 uspokojivě TC6 80 dobře Jaké je pokrytí hraničních hodnot při užití 2-hodnotové analýzy hraničních hodnot, kterého je dosaženo pomocí výše definovaných testovacích případů?\nVyberte JEDNU odpověď. Verze 1.7 Strana 16 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Testujete systém, který vypočítává pro daného studenta jeho celkovou známku z určitého předmětu. Celková známka je přidělena na základě konečného výsledku podle následujících pravidel: • 0 – 50 bodů: neprospěl • 51 – 60 bodů: dostatečně • 61 – 70 bodů: uspokojivě • 71 – 80 bodů: dobře • 81 – 90 bodů: velmi dobře • 91 – 100 bodů: výborně Připravili jste následující sadu testovacích případů: Konečný Závěrečné výsledek hodnocení TC1 91 výborně TC2 50 neprospěl TC3 81 velmi dobře TC4 60 dostatečně TC5 70 uspokojivě TC6 80 dobře Jaké je pokrytí hraničních hodnot při užití 2-hodnotové analýzy hraničních hodnot, kterého je dosaženo pomocí výše definovaných testovacích případů?\nVyberte JEDNU odpověď.",
     "options": [
       "50%",
       "60%",
@@ -294,7 +294,7 @@
       "4",
       "2",
       "7",
-      "3 Verze 1.7 Strana 17 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky"
+      "3"
     ],
     "correct_index": 3
   },
@@ -341,12 +341,12 @@
     "set": "A",
     "id": 27,
     "language": "cs",
-    "question": "Ve vašem projektu došlo ke zpoždění ve vydání zcela nové aplikace a testování začalo později než mělo. Vy ale máte velmi dobré a podrobné znalosti z byznysové domény a dobré analytické dovednosti. Týmu ještě nebyl dodán úplný seznam požadavků, přesto vedení žádá o předložení výsledků nějakých testů. Která testovací technika se v této situaci hodí NEJLÉPE?\nVyberte JEDNU odpověď. Verze 1.7 Strana 19 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Ve vašem projektu došlo ke zpoždění ve vydání zcela nové aplikace a testování začalo později než mělo. Vy ale máte velmi dobré a podrobné znalosti z byznysové domény a dobré analytické dovednosti. Týmu ještě nebyl dodán úplný seznam požadavků, přesto vedení žádá o předložení výsledků nějakých testů. Která testovací technika se v této situaci hodí NEJLÉPE?\nVyberte JEDNU odpověď.",
     "options": [
       "Testování založené na kontrolních seznamech.",
       "Odhadování chyb.",
       "Průzkumné testování.",
-      "Testování větví. Verze 1.7 Strana 18 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky"
+      "Testování větví."
     ],
     "correct_index": 2
   },
@@ -385,7 +385,7 @@
       "Testeři určují prioritu uživatelských scénářů, které mají být implementovány.",
       "Testeři se zaměřují pouze na funkcionální aspekty testovaného systému.",
       "Testeři se podílejí na detailní identifikaci a ohodnocení rizik uživatelských scénářů.",
-      "Testeři garantují vydání vysoce kvalitního softwaru prostřednictvím včasného návrhu testů během plánování vydání. Verze 1.7 Strana 20 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky"
+      "Testeři garantují vydání vysoce kvalitního softwaru prostřednictvím včasného návrhu testů během plánování vydání."
     ],
     "correct_index": 2
   },
@@ -424,7 +424,7 @@
       "TC 003",
       "TC 005",
       "TC 002",
-      "TC 001 Verze 1.7 Strana 21 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky"
+      "TC 001"
     ],
     "correct_index": 0
   },
@@ -445,7 +445,7 @@
     "set": "A",
     "id": 35,
     "language": "cs",
-    "question": "Během analýzy rizik byla identifikována a ohodnocena následující rizika: • Riziko Doba odezvy je příliš dlouhá na to, aby bylo možné vygenerovat sestavu. • Pravděpodobnost rizika: střední; dopad rizika: vysoký • Reakce na riziko: o Nezávislý testovací tým provádí během systémového testování testování výkonnostní efektivity (výkonnosti). o Vybraný vzorek koncových uživatelů provádí před vydáním alfa a beta testování. Jaký způsob reakce na toto analyzované riziko je zvolen?\nVyberte JEDNU odpověď. Verze 1.7 Strana 22 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Během analýzy rizik byla identifikována a ohodnocena následující rizika: • Riziko Doba odezvy je příliš dlouhá na to, aby bylo možné vygenerovat sestavu. • Pravděpodobnost rizika: střední; dopad rizika: vysoký • Reakce na riziko: o Nezávislý testovací tým provádí během systémového testování testování výkonnostní efektivity (výkonnosti). o Vybraný vzorek koncových uživatelů provádí před vydáním alfa a beta testování. Jaký způsob reakce na toto analyzované riziko je zvolen?\nVyberte JEDNU odpověď.",
     "options": [
       "Přijetí rizika.",
       "Záložní plán.",
@@ -484,7 +484,7 @@
     "set": "A",
     "id": 38,
     "language": "cs",
-    "question": "Od vývojářů jste obdrželi vyjádření k následujícímu report o defektu, kde uvádí, že popsaná anomálie není reprodukovatelná. Aplikace zamrzne 3. května 2022 – John Doe – Odmítnuto Aplikace zamrzne po zadání \"Test input: $ä\" do pole Název na obrazovce pro vytvoření nového uživatele. Zkusil jsem se odhlásit a přihlásit pomocí účtu test_admin01, stejný problém. Zkusil jsem i s jinými testovacími účty správců, stejný problém. Nezobrazila se žádná chybová zpráva, log (viz příloha) obsahuje upozornění na závažnou chybu. Na základě testovacího případu TC-1305 by aplikace měla akceptovat poskytnutý vstup a vytvořit uživatele. Prosím o opravu s vysokou prioritou, tato funkcionalita souvisí s REQ- 0012, což je nový kritický byznysový požadavek. Jaké kritické informace, které by byly pro vývojáře užitečné, v tomto reportu CHYBÍ?\nVyberte JEDNU odpověď. Verze 1.7 Strana 23 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, Základní úroveň Vzorová zkouška, sada A Vzorová zkouška – otázky",
+    "question": "Od vývojářů jste obdrželi vyjádření k následujícímu report o defektu, kde uvádí, že popsaná anomálie není reprodukovatelná. Aplikace zamrzne 3. května 2022 – John Doe – Odmítnuto Aplikace zamrzne po zadání \"Test input: $ä\" do pole Název na obrazovce pro vytvoření nového uživatele. Zkusil jsem se odhlásit a přihlásit pomocí účtu test_admin01, stejný problém. Zkusil jsem i s jinými testovacími účty správců, stejný problém. Nezobrazila se žádná chybová zpráva, log (viz příloha) obsahuje upozornění na závažnou chybu. Na základě testovacího případu TC-1305 by aplikace měla akceptovat poskytnutý vstup a vytvořit uživatele. Prosím o opravu s vysokou prioritou, tato funkcionalita souvisí s REQ- 0012, což je nový kritický byznysový požadavek. Jaké kritické informace, které by byly pro vývojáře užitečné, v tomto reportu CHYBÍ?\nVyberte JEDNU odpověď.",
     "options": [
       "Očekávané a skutečné výsledky.",
       "Reference a stav defektu.",
@@ -510,7 +510,7 @@
     "set": "A",
     "id": 40,
     "language": "cs",
-    "question": "Která možnost správně identifikuje potenciální riziko automatizace testů?\nVyberte JEDNU odpověď. Verze 1.7 Strana 33 z 33 Vydáno 1.4.2025 © International Software Testing Qualifications Board",
+    "question": "Která možnost správně identifikuje potenciální riziko automatizace testů?\nVyberte JEDNU odpověď.",
     "options": [
       "Překážky pro testování.",
       "Dosažené pokrytí větví.",
@@ -562,7 +562,7 @@
     "set": "B",
     "id": 4,
     "language": "cs",
-    "question": "Která testovací činnost zahrnuje práci s požadavky na testovací data, testovacími podmínkami, požadavky testovacího prostředí a testovacími případy?\nVyberte JEDNU možnost. Verze 1.7 Strana 6 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Která testovací činnost zahrnuje práci s požadavky na testovací data, testovacími podmínkami, požadavky testovacího prostředí a testovacími případy?\nVyberte JEDNU možnost.",
     "options": [
       "Návrh testů.",
       "Provedení testů.",
@@ -614,7 +614,7 @@
     "set": "B",
     "id": 8,
     "language": "cs",
-    "question": "Které z následujících tvrzení je výhodou týmového přístupu?\nVyberte JEDNU možnost. Verze 1.7 Strana 7 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Které z následujících tvrzení je výhodou týmového přístupu?\nVyberte JEDNU možnost.",
     "options": [
       "Umožňuje členům týmu kdykoliv převzít jakoukoliv roli.",
       "K podpoře kompletního vývojového projektu je potřeba pouze jeden tým.",
@@ -666,7 +666,7 @@
     "set": "B",
     "id": 12,
     "language": "cs",
-    "question": "Které z následujících tvrzení o DevOps je SPRÁVNÉ?\nVyberte JEDNU možnost. Verze 1.7 Strana 8 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Které z následujících tvrzení o DevOps je SPRÁVNÉ?\nVyberte JEDNU možnost.",
     "options": [
       "Aby se urychlil proces vydávání, používá se průběžná integrace, která vývojáře nabádá k rychlému dodávání kódu bez nutnosti dokončit testování komponent.",
       "Aby bylo možné častěji aktualizovat a vydávat systémy, je zapotřebí mnoho automatizovaných regresních testů s cílem snížit riziko regrese.",
@@ -718,7 +718,7 @@
     "set": "B",
     "id": 16,
     "language": "cs",
-    "question": "Která z následujících možností je výhodou včasné a časté zpětné vazby zainteresovaných stran?\nVyberte JEDNU možnost. Verze 1.7 Strana 9 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je výhodou včasné a časté zpětné vazby zainteresovaných stran?\nVyberte JEDNU možnost.",
     "options": [
       "Manažeři mají přehled o méně produktivních vývojářích.",
       "Umožňuje projektovým manažerům upřednostňovat komunikaci se zainteresovanými stranami.",
@@ -744,7 +744,7 @@
     "set": "B",
     "id": 18,
     "language": "cs",
-    "question": "Předpokládejme následující role v procesu revize: 1. Zapisovatel. 2. Vedoucí revize. 3. Moderátor (facilitátor). 4. Manažer. Dále předpokládejme následující seznam zodpovědností: A. Zajišťuje efektivní průběh revizních schůzek a nastavení komfortního prostředí pro revize. B. Zaznamenává informace o revizi, jako jsou různá rozhodnutí a nové anomálie zjištěné během revizní schůzky. C. Rozhoduje o tom, co má být revidováno, a rozhoduje o zdrojích, jako jsou lidé nebo čas. D. Přebírá celkovou odpovědnost za revizi, například organizuje, kdy a kde se bude revize konat. Která z následujících možností NEJLÉPE přiřazuje role k zodpovědnostem?\nVyberte JEDNU možnost. Verze 1.7 Strana 10 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Předpokládejme následující role v procesu revize: 1. Zapisovatel. 2. Vedoucí revize. 3. Moderátor (facilitátor). 4. Manažer. Dále předpokládejme následující seznam zodpovědností: A. Zajišťuje efektivní průběh revizních schůzek a nastavení komfortního prostředí pro revize. B. Zaznamenává informace o revizi, jako jsou různá rozhodnutí a nové anomálie zjištěné během revizní schůzky. C. Rozhoduje o tom, co má být revidováno, a rozhoduje o zdrojích, jako jsou lidé nebo čas. D. Přebírá celkovou odpovědnost za revizi, například organizuje, kdy a kde se bude revize konat. Která z následujících možností NEJLÉPE přiřazuje role k zodpovědnostem?\nVyberte JEDNU možnost.",
     "options": [
       "1A, 2B, 3D, 4C",
       "1A, 2C, 3B, 4D",
@@ -770,7 +770,7 @@
     "set": "B",
     "id": 20,
     "language": "cs",
-    "question": "Zákazníci sítě mycích linek TestWash mohou využít věrnostní karty se záznamy o počtu provedených mytí. Počáteční hodnota je 0. Po vjezdu do myčky systém zvýší číslo na kartě o jednu. Tato hodnota představuje číslo aktuálního mytí. Na základě tohoto čísla systém rozhodne, na jakou slevu má zákazník nárok. Pro každé desáté mytí poskytuje systém 10% slevu a pro každé dvacáté mytí další 40% slevu (tj. 50% slevu celkem). Která z následujících sad vstupních dat (chápaná jako čísla aktuálního mytí) dosahuje nejvyššího pokrytí tříd ekvivalence?\nVyberte JEDNU možnost. Verze 1.7 Strana 11 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Zákazníci sítě mycích linek TestWash mohou využít věrnostní karty se záznamy o počtu provedených mytí. Počáteční hodnota je 0. Po vjezdu do myčky systém zvýší číslo na kartě o jednu. Tato hodnota představuje číslo aktuálního mytí. Na základě tohoto čísla systém rozhodne, na jakou slevu má zákazník nárok. Pro každé desáté mytí poskytuje systém 10% slevu a pro každé dvacáté mytí další 40% slevu (tj. 50% slevu celkem). Která z následujících sad vstupních dat (chápaná jako čísla aktuálního mytí) dosahuje nejvyššího pokrytí tříd ekvivalence?\nVyberte JEDNU možnost.",
     "options": [
       "19, 20, 30",
       "11, 12, 20",
@@ -783,7 +783,7 @@
     "set": "B",
     "id": 21,
     "language": "cs",
-    "question": "Testujete formulář, který ověřuje správnost délky zadaného hesla. Formulář akceptuje heslo se správnou délkou a odmítne heslo, které je příliš krátké nebo příliš dlouhé. Délka hesla je správná, pokud má 6 až 12 znaků včetně. Ostatní případy jsou považovány za nesprávné. Formulář je nejprve prázdný (délka hesla = 0). Na proměnnou \"délka hesla\" aplikujete analýzu hraničních hodnot (BVA). Vaše sada testovacích případů dosáhne 100% pokrytí 2-hodnotové analýzy hraničních hodnot. Tým se rozhodl, že vzhledem k vysokému riziku této komponenty by měly být přidány takové testovací případy, aby bylo zajištěno 100% pokrytí 3-hodnotové BVA. Jaké další délky hesel by měly být testovány, aby toho bylo dosaženo?\nVyberte JEDNU možnost. Verze 1.7 Strana 12 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Testujete formulář, který ověřuje správnost délky zadaného hesla. Formulář akceptuje heslo se správnou délkou a odmítne heslo, které je příliš krátké nebo příliš dlouhé. Délka hesla je správná, pokud má 6 až 12 znaků včetně. Ostatní případy jsou považovány za nesprávné. Formulář je nejprve prázdný (délka hesla = 0). Na proměnnou \"délka hesla\" aplikujete analýzu hraničních hodnot (BVA). Vaše sada testovacích případů dosáhne 100% pokrytí 2-hodnotové analýzy hraničních hodnot. Tým se rozhodl, že vzhledem k vysokému riziku této komponenty by měly být přidány takové testovací případy, aby bylo zajištěno 100% pokrytí 3-hodnotové BVA. Jaké další délky hesel by měly být testovány, aby toho bylo dosaženo?\nVyberte JEDNU možnost.",
     "options": [
       "4, 5, 13, 14",
       "7, 11",
@@ -796,7 +796,7 @@
     "set": "B",
     "id": 22,
     "language": "cs",
-    "question": "Následující rozhodovací tabulka obsahuje pravidla pro stanovení rizika aterosklerózy. Pravidlo Pravidlo Pravidlo Pravidlo Pravidlo 1 2 3 4 5 Podmínky Cholesterol [mg/dl] 125 – 125 – ≤ 124 ≤ 124 ≥ 201 200 200 Krevní tlak [mm Hg] ≤ 140 > 140 ≤ 140 > 140 – Akce Úroveň rizika velmi velmi nízká střední vysoká nízká vysoká Navrhli jste testovací případy (TC) s následujícími vstupními daty: TC1: Cholesterol = 125 mg/dl Krevní tlak = 141 mm Hg TC2: Cholesterol = 200 mg/dl Krevní tlak = 201 mm Hg TC3: Cholesterol = 124 mg/dl Krevní tlak = 201 mm Hg TC4: Cholesterol = 109 mg/dl Krevní tlak = 200 mm Hg TC5: Cholesterol = 201 mg/dl Krevní tlak = 140 mm Hg Jakého pokrytí rozhodovací tabulky dosáhnou tyto testovací případy?\nVyberte JEDNU možnost. Verze 1.7 Strana 13 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Následující rozhodovací tabulka obsahuje pravidla pro stanovení rizika aterosklerózy. Pravidlo Pravidlo Pravidlo Pravidlo Pravidlo 1 2 3 4 5 Podmínky Cholesterol [mg/dl] 125 – 125 – ≤ 124 ≤ 124 ≥ 201 200 200 Krevní tlak [mm Hg] ≤ 140 > 140 ≤ 140 > 140 – Akce Úroveň rizika velmi velmi nízká střední vysoká nízká vysoká Navrhli jste testovací případy (TC) s následujícími vstupními daty: TC1: Cholesterol = 125 mg/dl Krevní tlak = 141 mm Hg TC2: Cholesterol = 200 mg/dl Krevní tlak = 201 mm Hg TC3: Cholesterol = 124 mg/dl Krevní tlak = 201 mm Hg TC4: Cholesterol = 109 mg/dl Krevní tlak = 200 mm Hg TC5: Cholesterol = 201 mg/dl Krevní tlak = 140 mm Hg Jakého pokrytí rozhodovací tabulky dosáhnou tyto testovací případy?\nVyberte JEDNU možnost.",
     "options": [
       "40 %",
       "60 %",
@@ -822,7 +822,7 @@
     "set": "B",
     "id": 24,
     "language": "cs",
-    "question": "Spouštíte dva testovací případy T1 a T2, oba na stejném kódu. Test T1 dosáhl 40% pokrytí příkazů a test T2 dosáhl 65% pokrytí příkazů. Které z následujících tvrzení musí být nutně pravdivé?\nVyberte JEDNU možnost. Verze 1.7 Strana 14 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Spouštíte dva testovací případy T1 a T2, oba na stejném kódu. Test T1 dosáhl 40% pokrytí příkazů a test T2 dosáhl 65% pokrytí příkazů. Které z následujících tvrzení musí být nutně pravdivé?\nVyberte JEDNU možnost.",
     "options": [
       "Testovací sada složená z testů T1 a T2 dosahuje 105% pokrytí příkazů.",
       "Existuje alespoň jeden příkaz, který byl spuštěn pomocí T1 i T2.",
@@ -861,7 +861,7 @@
     "set": "B",
     "id": 27,
     "language": "cs",
-    "question": "Která z následujících možností se NEJLÉPE hodí jako prvek seznamu používaného při testování založeném na kontrolních seznamech?\nVyberte JEDNU možnost. Verze 1.7 Strana 15 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Která z následujících možností se NEJLÉPE hodí jako prvek seznamu používaného při testování založeném na kontrolních seznamech?\nVyberte JEDNU možnost.",
     "options": [
       "Vývojář udělal chybu při implementaci kódu.",
       "Dosažené pokrytí příkazů přesahuje 85 %.",
@@ -887,7 +887,7 @@
     "set": "B",
     "id": 29,
     "language": "cs",
-    "question": "Váš tým analyzuje následující uživatelský scénář s cílem definovat akceptační kritéria: JAKO registrovaný zákazník CHCI mít možnost prohlížet si své předchozí objednávky na webových stránkách společnosti, ABYCH měl přehled o svých nákupech. Který z následujících testovacích případů NENÍ pro tento uživatelský scénář relevantní?\nVyberte JEDNU možnost. Verze 1.7 Strana 16 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Váš tým analyzuje následující uživatelský scénář s cílem definovat akceptační kritéria: JAKO registrovaný zákazník CHCI mít možnost prohlížet si své předchozí objednávky na webových stránkách společnosti, ABYCH měl přehled o svých nákupech. Který z následujících testovacích případů NENÍ pro tento uživatelský scénář relevantní?\nVyberte JEDNU možnost.",
     "options": [
       "Vstup: zákazník se přihlásí ke svému účtu na webových stránkách a klikne na tlačítko \"Zobrazit historii objednávek\". Očekávaný výsledek: systém zobrazí seznam všech předchozích objednávek zákazníka včetně data, čísla objednávky a celkové ceny.",
       "Vstup: zákazník klikne na objednávku ze seznamu objednávek. Očekávaný výsledek: systém zobrazí jednotlivé nakoupené položky, jejich ceny a množství.",
@@ -913,7 +913,7 @@
     "set": "B",
     "id": 31,
     "language": "cs",
-    "question": "Chcete odhadnout pracnost potřebnou pro testování nového projektu pomocí odhadu založeného na poměrech. Hodnotu poměru pracnosti vývoje a testování vypočítáte na základě zprůměrovaných dat ze čtyř již realizovaných projektů podobných novému projektu. Tato historická data jsou uvedena v následující tabulce: Projekt Pracnost vývoje Pracnost testování [Kč] [Kč] P1 800 000 40 000 P2 1 200 000 130 000 P3 600 000 70 000 P4 1 000 000 120 000 Odhadované náklady (pracnost) na vývoj nového projektu jsou 800 000 Kč. Jaký je váš odhad pracnosti testování v tomto projektu?\nVyberte JEDNU možnost. Verze 1.7 Strana 17 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Chcete odhadnout pracnost potřebnou pro testování nového projektu pomocí odhadu založeného na poměrech. Hodnotu poměru pracnosti vývoje a testování vypočítáte na základě zprůměrovaných dat ze čtyř již realizovaných projektů podobných novému projektu. Tato historická data jsou uvedena v následující tabulce: Projekt Pracnost vývoje Pracnost testování [Kč] [Kč] P1 800 000 40 000 P2 1 200 000 130 000 P3 600 000 70 000 P4 1 000 000 120 000 Odhadované náklady (pracnost) na vývoj nového projektu jsou 800 000 Kč. Jaký je váš odhad pracnosti testování v tomto projektu?\nVyberte JEDNU možnost.",
     "options": [
       "40 000 Kč",
       "80 000 Kč",
@@ -939,7 +939,7 @@
     "set": "B",
     "id": 33,
     "language": "cs",
-    "question": "Která z následujících možností spadá podle modelu testovacích kvadrantů do kvadrantu Q1 (tj. zaměřené na technologii a podporující tým)?\nVyberte JEDNU možnost. Verze 1.7 Strana 18 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Která z následujících možností spadá podle modelu testovacích kvadrantů do kvadrantu Q1 (tj. zaměřené na technologii a podporující tým)?\nVyberte JEDNU možnost.",
     "options": [
       "Testování použitelnosti.",
       "Funkcionální testování.",
@@ -978,7 +978,7 @@
     "set": "B",
     "id": 36,
     "language": "cs",
-    "question": "Jste členem testovacího týmu se sídlem v Severní Americe, který vyvíjí produkt pro klienta v Evropě. Tým je agilní, používá DevOps a používá CI/CD pipeline (průběžná integrace / průběžné doručování). Která z následujících možností je NEJMÉNĚ efektivní způsob, jak sdílet zákazníkovi postup prací při testování?\nVyberte JEDNU možnost. Verze 1.7 Strana 19 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Jste členem testovacího týmu se sídlem v Severní Americe, který vyvíjí produkt pro klienta v Evropě. Tým je agilní, používá DevOps a používá CI/CD pipeline (průběžná integrace / průběžné doručování). Která z následujících možností je NEJMÉNĚ efektivní způsob, jak sdílet zákazníkovi postup prací při testování?\nVyberte JEDNU možnost.",
     "options": [
       "Osobně tváří v tvář (face-to-face).",
       "Pomocí ukazatelů (dashboardů).",
@@ -1004,7 +1004,7 @@
     "set": "B",
     "id": 38,
     "language": "cs",
-    "question": "Testujete funkci SORT, která na přijímá na vstupu sadu čísel a vrací ji na výstupu vzestupně seřazenou. Protokol z provedení testu vypadá následovně: Konfigurace prostředí: funkce SORT, sestavení 2.002.2182, sada testovacích případů (TCS): TCS- 3, počet testovacích případů (TC): 5 ID běhu testu: 736 Start 12:43:21.003 12:43:21.003 Provedení TC1 Vstup: 3 Výstup: 3 Výsledek: prošel 12:43:21.003 Provedení TC2 Vstup: 3 11 6 5 Výstup: 3 5 6 11 Výsledek: prošel 12:43:21.004 Provedení TC3 Vstup: 8 7 3 7 1 Výstup: 1 3 7 8 Výsledek: selhal 12:43:21.005 Provedení TC4 Vstup: -2 -2 -2 -3 -3 Výstup: -3 -2 Výsledek: selhal 12:43:21.005 Provedení TC5 Vstup: 0 -2 0 3 4 4 Výstup: -2 0 3 4 Výsledek: selhal Konec 12:43:21.005 Celková doba testovacího cyklu: 0:00:00.002 Která z následujících možností poskytuje NEJLEPŠÍ popis selhání, který lze použít v reportu o defektu?\nVyberte JEDNU možnost. Verze 1.7 Strana 20 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada B Vzorová zkouška – otázky",
+    "question": "Testujete funkci SORT, která na přijímá na vstupu sadu čísel a vrací ji na výstupu vzestupně seřazenou. Protokol z provedení testu vypadá následovně: Konfigurace prostředí: funkce SORT, sestavení 2.002.2182, sada testovacích případů (TCS): TCS- 3, počet testovacích případů (TC): 5 ID běhu testu: 736 Start 12:43:21.003 12:43:21.003 Provedení TC1 Vstup: 3 Výstup: 3 Výsledek: prošel 12:43:21.003 Provedení TC2 Vstup: 3 11 6 5 Výstup: 3 5 6 11 Výsledek: prošel 12:43:21.004 Provedení TC3 Vstup: 8 7 3 7 1 Výstup: 1 3 7 8 Výsledek: selhal 12:43:21.005 Provedení TC4 Vstup: -2 -2 -2 -3 -3 Výstup: -3 -2 Výsledek: selhal 12:43:21.005 Provedení TC5 Vstup: 0 -2 0 3 4 4 Výstup: -2 0 3 4 Výsledek: selhal Konec 12:43:21.005 Celková doba testovacího cyklu: 0:00:00.002 Která z následujících možností poskytuje NEJLEPŠÍ popis selhání, který lze použít v reportu o defektu?\nVyberte JEDNU možnost.",
     "options": [
       "Systém nedokáže seřadit několik sad čísel. Odkaz na testovací případy: TC3, TC4, TC5.",
       "Zdá se, že systém při řazení ignoruje duplicitní vstupy. Odkaz na testovací případy: TC3, TC4, TC5.",
@@ -1030,7 +1030,7 @@
     "set": "B",
     "id": 40,
     "language": "cs",
-    "question": "Která z následujících možností bude s NEJVĚTŠÍ pravděpodobností přínosem automatizace testů?\nVyberte JEDNU možnost. Verze 1.7 Strana 21 z 21 Vydáno 1.4.2025 © International Software Testing Qualifications Board",
+    "question": "Která z následujících možností bude s NEJVĚTŠÍ pravděpodobností přínosem automatizace testů?\nVyberte JEDNU možnost.",
     "options": [
       "Poskytuje metriky pokrytí, které jsou pro člověka příliš komplikované na to, aby je bylo možné ručně vypočítat.",
       "Přenáší část zodpovědnosti za testování na dodavatele nástroje.",
@@ -1082,7 +1082,7 @@
     "set": "C",
     "id": 4,
     "language": "cs",
-    "question": "Které z následujících testovacích činností budou s NEJVĚTŠÍ pravděpodobností zahrnovat použití analýzy hraničních hodnot a rozdělení tříd ekvivalence?\nVyberte DVĚ možnosti. Verze 1.6 Strana 6 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Které z následujících testovacích činností budou s NEJVĚTŠÍ pravděpodobností zahrnovat použití analýzy hraničních hodnot a rozdělení tříd ekvivalence?\nVyberte DVĚ možnosti. Verze 1.6 Strana 6 z 21 Vydáno 25.3.2025",
     "options": [
       "Implementace testování.",
       "Návrh testů.",
@@ -1121,7 +1121,7 @@
     "set": "C",
     "id": 7,
     "language": "cs",
-    "question": "Která z následujících možností je výhodou týmového přístupu?\nVyberte JEDNU možnost. Verze 1.6 Strana 7 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je výhodou týmového přístupu?\nVyberte JEDNU možnost. Verze 1.6 Strana 7 z 21 Vydáno 25.3.2025",
     "options": [
       "Týmy bez testerů.",
       "Zlepšení týmové dynamiky.",
@@ -1160,7 +1160,7 @@
     "set": "C",
     "id": 10,
     "language": "cs",
-    "question": "Která z následujících možností je příkladem přístupu k vývoji iniciovaného testy (test-first approach)?\nVyberte JEDNU možnost. Verze 1.6 Strana 8 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je příkladem přístupu k vývoji iniciovaného testy (test-first approach)?\nVyberte JEDNU možnost. Verze 1.6 Strana 8 z 21 Vydáno 25.3.2025",
     "options": [
       "Vývoj řízený testy komponent.",
       "Vývoj řízený integračními testy.",
@@ -1212,7 +1212,7 @@
     "set": "C",
     "id": 14,
     "language": "cs",
-    "question": "Software navigačního systému byl aktualizován kvůli tomu, že navrhoval trasy, které porušovaly dopravní předpisy (například jízdu v protisměru jednosměrnými ulicemi). Která z následujících možností NEJLÉPE popisuje, jaké typy testování mají být provedeny?\nVyberte JEDNU možnost. Verze 1.6 Strana 9 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Software navigačního systému byl aktualizován kvůli tomu, že navrhoval trasy, které porušovaly dopravní předpisy (například jízdu v protisměru jednosměrnými ulicemi). Která z následujících možností NEJLÉPE popisuje, jaké typy testování mají být provedeny?\nVyberte JEDNU možnost. Verze 1.6 Strana 9 z 21 Vydáno 25.3.2025",
     "options": [
       "Pouze konfirmační testování.",
       "Konfirmační testování a následně regresní testování.",
@@ -1238,7 +1238,7 @@
     "set": "C",
     "id": 16,
     "language": "cs",
-    "question": "Která z následujících možností je výhodou včasné a časté zpětné vazby zainteresovaných stran?\nVyberte JEDNU možnost. Verze 1.6 Strana 10 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je výhodou včasné a časté zpětné vazby zainteresovaných stran?\nVyberte JEDNU možnost. Verze 1.6 Strana 10 z 21 Vydáno 25.3.2025",
     "options": [
       "Změny požadavků jsou pochopeny a implementovány dříve.",
       "Zajišťuje, aby zástupci byznysu rozuměli uživatelským požadavkům.",
@@ -1277,7 +1277,7 @@
     "set": "C",
     "id": 19,
     "language": "cs",
-    "question": "Jaký je HLAVNÍ rozdíl mezi technikami testování černé skříňky a technikami testování založenými na zkušenostech?\nVyberte JEDNU možnost. Verze 1.6 Strana 11 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Jaký je HLAVNÍ rozdíl mezi technikami testování černé skříňky a technikami testování založenými na zkušenostech?\nVyberte JEDNU možnost. Verze 1.6 Strana 11 z 21 Vydáno 25.3.2025",
     "options": [
       "Testovaný objekt.",
       "Úroveň testování, na kterou se testovací technika používá.",
@@ -1303,7 +1303,7 @@
     "set": "C",
     "id": 21,
     "language": "cs",
-    "question": "Vývojář byl požádán, aby implementoval následující byznysové pravidlo: VSTUP: hodnota (celé číslo) POKUD (hodnota ≤ 100 NEBO hodnota ≥ 200) POTOM napiš \"Hodnota je nesprávná\" JINAK napiš \"Hodnota OK\" Navrhujete testovací případy pomocí 2-hodnotové analýzy hraničních hodnot. Která z následujících sad testovacích vstupů dosahuje největšího pokrytí?\nVyberte JEDNU možnost. Verze 1.6 Strana 12 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Vývojář byl požádán, aby implementoval následující byznysové pravidlo: VSTUP: hodnota (celé číslo) POKUD (hodnota ≤ 100 NEBO hodnota ≥ 200) POTOM napiš \"Hodnota je nesprávná\" JINAK napiš \"Hodnota OK\" Navrhujete testovací případy pomocí 2-hodnotové analýzy hraničních hodnot. Která z následujících sad testovacích vstupů dosahuje největšího pokrytí?\nVyberte JEDNU možnost. Verze 1.6 Strana 12 z 21 Vydáno 25.3.2025",
     "options": [
       "100, 150, 200, 201,",
       "99, 100, 200, 201,",
@@ -1316,7 +1316,7 @@
     "set": "C",
     "id": 22,
     "language": "cs",
-    "question": "Pracujete na projektu, jehož cílem je vyvinout systém pro analýzu výsledků řidičských zkoušek. Byli jste požádáni, abyste navrhli testovací případy na základě následující rozhodovací tabulky (F- false/nepravda, T-true/pravda, znak - znamená, že hodnota podmínky je pro výsledek akce výstup irelevantní): R1 R2 R3 C1: První pokus o zkoušku? - - F C2: Teoretická zkouška složena? T F - C3: Praktická zkouška složena? T - F Vydat řidičský průkaz? X Požádat o další lekce v řízení? X Požádat o opakování zkoušky? X Jaká testovací data prokáží, že v rozhodovací tabulce existují protichůdná pravidla?\nVyberte JEDNU možnost. Verze 1.6 Strana 13 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Pracujete na projektu, jehož cílem je vyvinout systém pro analýzu výsledků řidičských zkoušek. Byli jste požádáni, abyste navrhli testovací případy na základě následující rozhodovací tabulky (F- false/nepravda, T-true/pravda, znak - znamená, že hodnota podmínky je pro výsledek akce výstup irelevantní): R1 R2 R3 C1: První pokus o zkoušku? - - F C2: Teoretická zkouška složena? T F - C3: Praktická zkouška složena? T - F Vydat řidičský průkaz? X Požádat o další lekce v řízení? X Požádat o opakování zkoušky? X Jaká testovací data prokáží, že v rozhodovací tabulce existují protichůdná pravidla?\nVyberte JEDNU možnost. Verze 1.6 Strana 13 z 21 Vydáno 25.3.2025",
     "options": [
       "C1 = T, C2 = T, C3 = F",
       "C1 = T, C2 = F, C3 = T",
@@ -1329,7 +1329,7 @@
     "set": "C",
     "id": 23,
     "language": "cs",
-    "question": "Navrhujete testovací případy na základě následujícího stavového diagramu. Jaký je MINIMÁLNÍ počet testovacích případů potřebných k dosažení 100 % pokrytí platných přechodů?\nVyberte JEDNU možnost. Verze 1.6 Strana 14 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Navrhujete testovací případy na základě následujícího stavového diagramu. Jaký je MINIMÁLNÍ počet testovacích případů potřebných k dosažení 100 % pokrytí platných přechodů?\nVyberte JEDNU možnost. Verze 1.6 Strana 14 z 21 Vydáno 25.3.2025",
     "options": [
       "3",
       "2",
@@ -1355,7 +1355,7 @@
     "set": "C",
     "id": 25,
     "language": "cs",
-    "question": "Jak může být testování bílé skříňky užitečné pro podporu testování černé skříňky?\nVyberte JEDNU možnost. Verze 1.6 Strana 15 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Jak může být testování bílé skříňky užitečné pro podporu testování černé skříňky?\nVyberte JEDNU možnost. Verze 1.6 Strana 15 z 21 Vydáno 25.3.2025",
     "options": [
       "Metriky pokrytí bílé skříňky mohou testerům pomoci vyhodnotit testy černé skříňky z hlediska pokrytí kódu dosaženého těmito testy černé skříňky.",
       "Analýza pokrytí testů bílé skříňky může testerům pomoci identifikovat nedosažitelné části zdrojového kódu.",
@@ -1394,7 +1394,7 @@
     "set": "C",
     "id": 28,
     "language": "cs",
-    "question": "Která z následujících možností je NEJLEPŠÍM příkladem akceptačního kritéria orientovaného na scénář?\nVyberte JEDNU možnost. Verze 1.6 Strana 16 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je NEJLEPŠÍM příkladem akceptačního kritéria orientovaného na scénář?\nVyberte JEDNU možnost. Verze 1.6 Strana 16 z 21 Vydáno 25.3.2025",
     "options": [
       "Aplikace musí uživatelům umožnit smazat na požádání jejich účet a všechny související údaje.",
       "Když zákazník přidá položku do košíku a přejde k pokladně, měl by být vyzván k přihlášení nebo vytvoření účtu (pokud tak ještě neučinil).",
@@ -1420,7 +1420,7 @@
     "set": "C",
     "id": 30,
     "language": "cs",
-    "question": "Která z následujících možností NENÍ účelem plánu testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 17 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností NENÍ účelem plánu testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 17 z 21 Vydáno 25.3.2025",
     "options": [
       "Definovat testovací data a očekávané výsledky pro testy komponent a integrační testy komponent.",
       "Jako výstupní kritérium z úrovně testování komponent definovat, že \"musí být dosaženo 100 % pokrytí příkazů a 100 % pokrytí větví\".",
@@ -1433,7 +1433,7 @@
     "set": "C",
     "id": 31,
     "language": "cs",
-    "question": "Na začátku každé iterace tým odhadne množství práce (v člověkodnech), které bude muset během iterace vykonat. Nechť E(n) je odhadovaný a A(n) skutečný objem práce pro iteraci n. Od třetí iterace tým používá následující model odhadu založený na extrapolaci: 3∗𝐴(𝑛−1)+𝐴(𝑛−2) 𝐸(𝑛)= 4 Graf ukazuje odhadovaný a skutečný objem práce pro první čtyři iterace. Jaký je odhadovaný objem práce pro iteraci č. 5?\nVyberte JEDNU možnost. Verze 1.6 Strana 18 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Na začátku každé iterace tým odhadne množství práce (v člověkodnech), které bude muset během iterace vykonat. Nechť E(n) je odhadovaný a A(n) skutečný objem práce pro iteraci n. Od třetí iterace tým používá následující model odhadu založený na extrapolaci: 3∗𝐴(𝑛−1)+𝐴(𝑛−2) 𝐸(𝑛)= 4 Graf ukazuje odhadovaný a skutečný objem práce pro první čtyři iterace. Jaký je odhadovaný objem práce pro iteraci č. 5?\nVyberte JEDNU možnost. Verze 1.6 Strana 18 z 21 Vydáno 25.3.2025",
     "options": [
       "10,5 člověkodnů",
       "8,25 člověkodnů",
@@ -1477,7 +1477,7 @@
       "Testovací kvadranty představují konkrétní kombinace úrovní a typů testů a definují jejich umístění v životním cyklu vývoje softwaru.",
       "Testovací kvadranty popisují míru granularity jednotlivých typů testů prováděných v každé úrovni testování.",
       "Testovací kvadranty přiřazují k jednotlivým úrovním testování typy testů, které v nich lze provést.",
-      "Testovací kvadranty sdružují úrovně testování a typy testů podle několika kritérií, jako je zacílení na konkrétní zainteresované strany. Verze 1.6 Strana 19 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky"
+      "Testovací kvadranty sdružují úrovně testování a typy testů podle několika kritérií, jako je zacílení na konkrétní zainteresované strany. Verze 1.6 Strana 19 z 21 Vydáno 25.3.2025"
     ],
     "correct_index": 3
   },
@@ -1511,7 +1511,7 @@
     "set": "C",
     "id": 37,
     "language": "cs",
-    "question": "Která z následujících možností NENÍ příkladem toho, jak konfigurační management podporuje testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 20 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada C Vzorová zkouška – otázky",
+    "question": "Která z následujících možností NENÍ příkladem toho, jak konfigurační management podporuje testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 20 z 21 Vydáno 25.3.2025",
     "options": [
       "Všechny commity do repozitáře jsou jednoznačně identifikovány a jejich verze jsou řízeny.",
       "Všechny změny v prvcích testovacího prostředí jsou sledovány.",
@@ -1550,7 +1550,7 @@
     "set": "C",
     "id": 40,
     "language": "cs",
-    "question": "Která z následujících možností bude s NEJVĚTŠÍ pravděpodobností přínosem automatizace testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 21 z 21 Vydáno 25.3.2025 © International Software Testing Qualifications Board",
+    "question": "Která z následujících možností bude s NEJVĚTŠÍ pravděpodobností přínosem automatizace testování?\nVyberte JEDNU možnost. Verze 1.6 Strana 21 z 21 Vydáno 25.3.2025",
     "options": [
       "Možnost generování testovacích případů bez přístupu k testovací bázi.",
       "Dosažení většího pokrytí prostřednictvím objektivnějšího hodnocení.",
@@ -1589,7 +1589,7 @@
     "set": "D",
     "id": 3,
     "language": "cs",
-    "question": "Testovací podmínky používají testeři k vytváření testovacích případů a provádění testů. Přestože se testovací podmínky nemění, testovací případy jsou pokaždé jiné. Kterého z následujících principů testování se týká tato obměna (variace) testovacích případů?\nVyberte JEDNU možnost. Verze 1.5 Strana 6 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Testovací podmínky používají testeři k vytváření testovacích případů a provádění testů. Přestože se testovací podmínky nemění, testovací případy jsou pokaždé jiné. Kterého z následujících principů testování se týká tato obměna (variace) testovacích případů?\nVyberte JEDNU možnost. Verze 1.5 Strana 6 z 20 Vydáno 2.5.2025",
     "options": [
       "Testy se opotřebovávají.",
       "Nepřítomnost defektů je klam.",
@@ -1628,7 +1628,7 @@
     "set": "D",
     "id": 6,
     "language": "cs",
-    "question": "Která z následujících možností NEJPRAVDĚPODOBNĚJI popisuje úkol vykonávaný někým v roli manažera testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 7 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Která z následujících možností NEJPRAVDĚPODOBNĚJI popisuje úkol vykonávaný někým v roli manažera testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 7 z 20 Vydáno 2.5.2025",
     "options": [
       "Vyhodnocení testovací báze a testovaného objektu.",
       "Definice požadavků na testovací prostředí.",
@@ -1680,7 +1680,7 @@
     "set": "D",
     "id": 10,
     "language": "cs",
-    "question": "Která z následujících možností je příkladem přístupu k vývoji iniciovaného testy (test-first)?\nVyberte JEDNU možnost. Verze 1.5 Strana 8 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je příkladem přístupu k vývoji iniciovaného testy (test-first)?\nVyberte JEDNU možnost. Verze 1.5 Strana 8 z 20 Vydáno 2.5.2025",
     "options": [
       "Vývoj řízený chováním.",
       "Vývoj řízený úrovní testování.",
@@ -1737,7 +1737,7 @@
       "Vývojáři nahlásili, že úprava systému byla obtížná, a testeři se rozhodli ověřit, zda je to pravda.",
       "Možnost vrácení peněz byla ze systému odstraněna, protože ne vždy vracela zákazníkům správnou částku.",
       "Agilní tým začal vyvíjet uživatelský scénář, který do systému přidává novou funkcionalitu věrnostního programu.",
-      "V systému byla použita možnost volby jazyka, která umožnila provádění transakcí v angličtině i v místním jazyce. Verze 1.5 Strana 9 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky"
+      "V systému byla použita možnost volby jazyka, která umožnila provádění transakcí v angličtině i v místním jazyce. Verze 1.5 Strana 9 z 20 Vydáno 2.5.2025"
     ],
     "correct_index": 1
   },
@@ -1771,7 +1771,7 @@
     "set": "D",
     "id": 17,
     "language": "cs",
-    "question": "Předpokládejme následující popis činností revize: 1. Zjištěné anomálie jsou analyzovány, prodiskutovány a je rozhodnuto o jejich stavu, vlastnictví a požadovaných opatřeních. 2. Defekty jsou zaznamenány a veškeré potřebné opravy jsou provedeny před akceptací pracovního produktu. 3. Revidující používají různé techniky pro vytváření doporučení a otázek ohledně pracovního produktu, a k identifikaci anomálií. 4. Je stanoven účel a harmonogram revize s cílem zajistit cílenou a efektivní revizi. 5. Účastníkům je poskytnut přístup k revidovanému pracovnímu produktu. Která z následujících možností je SPRÁVNÉ pořadí činností v procesu revize odpovídající daným popisům?\nVyberte JEDNU možnost. Verze 1.5 Strana 10 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Předpokládejme následující popis činností revize: 1. Zjištěné anomálie jsou analyzovány, prodiskutovány a je rozhodnuto o jejich stavu, vlastnictví a požadovaných opatřeních. 2. Defekty jsou zaznamenány a veškeré potřebné opravy jsou provedeny před akceptací pracovního produktu. 3. Revidující používají různé techniky pro vytváření doporučení a otázek ohledně pracovního produktu, a k identifikaci anomálií. 4. Je stanoven účel a harmonogram revize s cílem zajistit cílenou a efektivní revizi. 5. Účastníkům je poskytnut přístup k revidovanému pracovnímu produktu. Která z následujících možností je SPRÁVNÉ pořadí činností v procesu revize odpovídající daným popisům?\nVyberte JEDNU možnost. Verze 1.5 Strana 10 z 20 Vydáno 2.5.2025",
     "options": [
       "4 – 3 – 5 – 2 – 1",
       "4 – 5 – 3 – 1 – 2",
@@ -1797,7 +1797,7 @@
     "set": "D",
     "id": 19,
     "language": "cs",
-    "question": "Provádíte systémové testování webové aplikace e-shopu a máte k dispozici následující požadavek: REQ 05-017. Pokud celková cena nákupu přesáhne 100 €, získá zákazník 5% slevu na další nákupy. V opačném případě zákazník slevu neobdrží. Které techniky testování budou NEJVÍCE užitečné při navrhování testovacích případů na základě tohoto požadavku?\nVyberte JEDNU možnost. Verze 1.5 Strana 11 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Provádíte systémové testování webové aplikace e-shopu a máte k dispozici následující požadavek: REQ 05-017. Pokud celková cena nákupu přesáhne 100 €, získá zákazník 5% slevu na další nákupy. V opačném případě zákazník slevu neobdrží. Které techniky testování budou NEJVÍCE užitečné při navrhování testovacích případů na základě tohoto požadavku?\nVyberte JEDNU možnost. Verze 1.5 Strana 11 z 20 Vydáno 2.5.2025",
     "options": [
       "Techniky testování bílé skříňky.",
       "Techniky testování černé skříňky.",
@@ -1823,7 +1823,7 @@
     "set": "D",
     "id": 21,
     "language": "cs",
-    "question": "Testujete systém řízení teploty pro zahradnické chladírenské zařízení. Systém přijímá jako vstup teplotu (v celých stupních Celsia). Pokud je teplota v rozsahu od 0 do 2 stupňů včetně, systém zobrazí zprávu „teplota OK“. Pro nižší teploty systém zobrazí zprávu „příliš nízká teplota“ a pro vyšší teploty zobrazí zprávu „příliš vysoká teplota“. Která z následujících sad testovacích vstupů poskytuje nejvyšší úroveň pokrytí hraničních hodnot při použití 2-hodnotové BVA?\nVyberte JEDNU možnost. Verze 1.5 Strana 12 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Testujete systém řízení teploty pro zahradnické chladírenské zařízení. Systém přijímá jako vstup teplotu (v celých stupních Celsia). Pokud je teplota v rozsahu od 0 do 2 stupňů včetně, systém zobrazí zprávu „teplota OK“. Pro nižší teploty systém zobrazí zprávu „příliš nízká teplota“ a pro vyšší teploty zobrazí zprávu „příliš vysoká teplota“. Která z následujících sad testovacích vstupů poskytuje nejvyšší úroveň pokrytí hraničních hodnot při použití 2-hodnotové BVA?\nVyberte JEDNU možnost. Verze 1.5 Strana 12 z 20 Vydáno 2.5.2025",
     "options": [
       "–1, 3",
       "0, 2",
@@ -1836,7 +1836,7 @@
     "set": "D",
     "id": 22,
     "language": "cs",
-    "question": "Navrhujete testovací případy na základě následující rozhodovací tabulky: R1 R2 R3 R4 R5 R6 R7 C1: Věk 0-18 19-65 19-65 >65 0-18 19-65 >65 C2: Zkušenosti - 0-4 >4 - - - - C3: Registrován? NE NE NE NE ANO ANO ANO Kategorie A A B B B D C Dosud jste navrhli následující testovací případy: • Testovací případ 1 (TC1): Muž ve věku 19 let, neregistrovaný a bez zkušeností. Očekávaný výsledek: kategorie A. • Testovací případ 2 (TC2): Žena ve věku 65 let, neregistrovaná s 5 roky praxe. Očekávaný výsledek: kategorie B. • Testovací případ 3 (TC3): Muž ve věku 66 let, registrovaný a bez zkušeností. Očekávaný výsledek: kategorie C. • Testovací případ 4 (TC4): Žena ve věku 65 let, registrovaná se 4 roky praxe. Očekávaný výsledek: kategorie D. Který z následujících testovacích případů zvýší pokrytí rozhodovací tabulky v případě, kdy jej přidáte ke stávající sadě testovacích případů?\nVyberte JEDNU možnost. Verze 1.5 Strana 13 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Navrhujete testovací případy na základě následující rozhodovací tabulky: R1 R2 R3 R4 R5 R6 R7 C1: Věk 0-18 19-65 19-65 >65 0-18 19-65 >65 C2: Zkušenosti - 0-4 >4 - - - - C3: Registrován? NE NE NE NE ANO ANO ANO Kategorie A A B B B D C Dosud jste navrhli následující testovací případy: • Testovací případ 1 (TC1): Muž ve věku 19 let, neregistrovaný a bez zkušeností. Očekávaný výsledek: kategorie A. • Testovací případ 2 (TC2): Žena ve věku 65 let, neregistrovaná s 5 roky praxe. Očekávaný výsledek: kategorie B. • Testovací případ 3 (TC3): Muž ve věku 66 let, registrovaný a bez zkušeností. Očekávaný výsledek: kategorie C. • Testovací případ 4 (TC4): Žena ve věku 65 let, registrovaná se 4 roky praxe. Očekávaný výsledek: kategorie D. Který z následujících testovacích případů zvýší pokrytí rozhodovací tabulky v případě, kdy jej přidáte ke stávající sadě testovacích případů?\nVyberte JEDNU možnost. Verze 1.5 Strana 13 z 20 Vydáno 2.5.2025",
     "options": [
       "Muž ve věku 66 let bez zkušeností. Očekávaný výsledek: kategorie B.",
       "Žena ve věku 55 let, neregistrovaná se 2 roky praxe. Očekávaný výsledek: kategorie A.",
@@ -1880,7 +1880,7 @@
       "Testovací případy jsou navrženy na základě struktury testovaného objektu, nikoliv na základě specifikace.",
       "Pro každou techniku testování bílé skříňky lze dobře definovat a snadno změřit pokrytí.",
       "Techniky testování bílé skříňky slouží velmi dobře k odhalení opomenutí v požadavcích.",
-      "Techniky testování bílé skříňky lze použít jak při statickém testování, tak při dynamickém testování. Verze 1.5 Strana 14 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky"
+      "Techniky testování bílé skříňky lze použít jak při statickém testování, tak při dynamickém testování. Verze 1.5 Strana 14 z 20 Vydáno 2.5.2025"
     ],
     "correct_index": 0
   },
@@ -1914,7 +1914,7 @@
     "set": "D",
     "id": 28,
     "language": "cs",
-    "question": "Která metoda společného psaní uživatelských scénářů umožňuje týmu dosáhnout společného pochopení toho, co je třeba dodat?\nVyberte JEDNU možnost. Verze 1.5 Strana 15 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Která metoda společného psaní uživatelských scénářů umožňuje týmu dosáhnout společného pochopení toho, co je třeba dodat?\nVyberte JEDNU možnost. Verze 1.5 Strana 15 z 20 Vydáno 2.5.2025",
     "options": [
       "Plánovací poker, takže tým dosáhne shody ohledně pracnosti potřebné k implementaci uživatelského scénáře.",
       "Revize, takže tým odhalí nesrovnalosti a rozpory v uživatelském scénáři.",
@@ -1940,7 +1940,7 @@
     "set": "D",
     "id": 30,
     "language": "cs",
-    "question": "Která z následujících možností je NEJLEPŠÍM příkladem VÝSTUPNÍHO kritéria v testovacím projektu?\nVyberte DVĚ možnosti. Verze 1.5 Strana 16 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Která z následujících možností je NEJLEPŠÍM příkladem VÝSTUPNÍHO kritéria v testovacím projektu?\nVyberte DVĚ možnosti. Verze 1.5 Strana 16 z 20 Vydáno 2.5.2025",
     "options": [
       "Rozpočet je schválen.",
       "Je vyčerpán rozpočet.",
@@ -1966,7 +1966,7 @@
     "set": "D",
     "id": 32,
     "language": "cs",
-    "question": "Tabulka znázorňuje trasovací matici od testovacích případů (TC) k požadavkům (Req). \"X\" znamená, že daný testovací případ pokrývá odpovídající požadavek. Req1 Req2 Req3 Req4 Req5 Req6 Req7 TC1 X X X X TC2 X X X TC3 X X TC4 X Chcete stanovit priority testovacích případů pomocí techniky prioritizace dodatečného pokrytí. Musíte provést všechny čtyři testovací případy. Který testovací případ by měl být proveden jako POSLEDNÍ?\nVyberte JEDNU možnost. Verze 1.5 Strana 17 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Tabulka znázorňuje trasovací matici od testovacích případů (TC) k požadavkům (Req). \"X\" znamená, že daný testovací případ pokrývá odpovídající požadavek. Req1 Req2 Req3 Req4 Req5 Req6 Req7 TC1 X X X X TC2 X X X TC3 X X TC4 X Chcete stanovit priority testovacích případů pomocí techniky prioritizace dodatečného pokrytí. Musíte provést všechny čtyři testovací případy. Který testovací případ by měl být proveden jako POSLEDNÍ?\nVyberte JEDNU možnost. Verze 1.5 Strana 17 z 20 Vydáno 2.5.2025",
     "options": [
       "TC1",
       "TC2",
@@ -2018,7 +2018,7 @@
     "set": "D",
     "id": 36,
     "language": "cs",
-    "question": "Která z následujících možností NENÍ účelem reportu z testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 18 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky",
+    "question": "Která z následujících možností NENÍ účelem reportu z testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 18 z 20 Vydáno 2.5.2025",
     "options": [
       "Sledování průběhu testování a identifikace oblastí, které vyžadují zvýšený dohled.",
       "Poskytování informací o provedených testech, jejich výsledcích a všech nalezených defektech.",
@@ -2049,7 +2049,7 @@
       "Přidání informací o tom, kterých uživatelů a kterých knih se selhání týká (do sekce Popis).",
       "Vyplnění chybějící hodnoty pro pole Priorita.",
       "Přidání výpisů paměti a snímků databáze pořízených po každém kroku popsaném v sekci Kroky k reprodukci do sekce Přílohy.",
-      "Opakování stejného testovacího případu pro různá prostředí a sepsání samostatných hlášení defektů pro každé z nich. Verze 1.5 Strana 19 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board Certifikovaný tester, základní úroveň Sada D Vzorová zkouška – otázky"
+      "Opakování stejného testovacího případu pro různá prostředí a sepsání samostatných hlášení defektů pro každé z nich. Verze 1.5 Strana 19 z 20 Vydáno 2.5.2025"
     ],
     "correct_index": 0
   },
@@ -2070,7 +2070,7 @@
     "set": "D",
     "id": 40,
     "language": "cs",
-    "question": "Která z následujících možností je NEJPRAVDĚPODOBNĚJI rizikem automatizace testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 20 z 20 Vydáno 2.5.2025 © International Software Testing Qualifications Board",
+    "question": "Která z následujících možností je NEJPRAVDĚPODOBNĚJI rizikem automatizace testování?\nVyberte JEDNU možnost. Verze 1.5 Strana 20 z 20 Vydáno 2.5.2025",
     "options": [
       "Odhalení dodatečných defektů s vysokou závažností.",
       "Poskytování metrik, které jsou příliš složité na to, aby je bylo možno ručně vypočítat.",

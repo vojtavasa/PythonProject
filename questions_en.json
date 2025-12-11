@@ -29,7 +29,7 @@
     "set": "A",
     "id": 3,
     "language": "en",
-    "question": "You have been assigned as a tester to a team producing a new system incrementally. You have noticed that no changes have been made to the existing regression test cases for several iterations and no new regression defects were identified. Your manager is happy, but you are not. Which testing principle explains your skepticism?\nSelect ONE option. Version 1.7 Page 8 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You have been assigned as a tester to a team producing a new system incrementally. You have noticed that no changes have been made to the existing regression test cases for several iterations and no new regression defects were identified. Your manager is happy, but you are not. Which testing principle explains your skepticism?\nSelect ONE option.",
     "options": [
       "Tests wear out",
       "Absence-of-defects fallacy",
@@ -68,7 +68,7 @@
     "set": "A",
     "id": 6,
     "language": "en",
-    "question": "Which TWO of the following tasks belong MAINLY to a testing role?\nSelect TWO options. Version 1.7 Page 9 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "Which TWO of the following tasks belong MAINLY to a testing role?\nSelect TWO options.",
     "options": [
       "Configure test environments",
       "Maintain the product backlog",
@@ -107,7 +107,7 @@
     "set": "A",
     "id": 9,
     "language": "en",
-    "question": "Consider the following rule: “for every SDLC activity there is a corresponding test activity”. In which SDLC models does this rule hold?\nSelect ONE option. Version 1.7 Page 10 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "Consider the following rule: “for every SDLC activity there is a corresponding test activity”. In which SDLC models does this rule hold?\nSelect ONE option.",
     "options": [
       "Only in sequential development models",
       "Only in iterative development models",
@@ -146,7 +146,7 @@
     "set": "A",
     "id": 12,
     "language": "en",
-    "question": "Which of the arguments below would you use to convince your manager to organize retrospectives at the end of each release cycle?\nSelect ONE option. Version 1.7 Page 11 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "Which of the arguments below would you use to convince your manager to organize retrospectives at the end of each release cycle?\nSelect ONE option.",
     "options": [
       "Retrospectives are very popular these days and clients would appreciate it if we added them to our processes",
       "Organizing retrospectives will save the organization money because without them end user representatives do not provide immediate feedback about the product",
@@ -172,7 +172,7 @@
     "set": "A",
     "id": 14,
     "language": "en",
-    "question": "You are testing a user story with three acceptance criteria: AC1, AC2 and AC3. AC1 is covered by test case TC1, AC2 by TC2, and AC3 by TC3. The test execution history had three test runs on three consecutive versions of the software as follows: Execution 1 Execution 2 Execution 3 TC1 (1) Failed (4) Passed (7) Passed TC2 (2) Passed (5) Failed (8) Passed TC3 (3) Failed (6) Failed (9) Passed Tests are repeated once you are informed that all defects found in the test run are corrected and a new version of the software is available. Which of the above tests are executed as regression tests?\nSelect ONE option. Version 1.7 Page 12 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You are testing a user story with three acceptance criteria: AC1, AC2 and AC3. AC1 is covered by test case TC1, AC2 by TC2, and AC3 by TC3. The test execution history had three test runs on three consecutive versions of the software as follows: Execution 1 Execution 2 Execution 3 TC1 (1) Failed (4) Passed (7) Passed TC2 (2) Passed (5) Failed (8) Passed TC3 (3) Failed (6) Failed (9) Passed Tests are repeated once you are informed that all defects found in the test run are corrected and a new version of the software is available. Which of the above tests are executed as regression tests?\nSelect ONE option.",
     "options": [
       "Only 4, 7, 8, 9",
       "Only 5, 7",
@@ -224,7 +224,7 @@
     "set": "A",
     "id": 18,
     "language": "en",
-    "question": "Which of these statements is NOT a factor that contributes to successful reviews?\nSelect ONE option. Version 1.7 Page 13 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "Which of these statements is NOT a factor that contributes to successful reviews?\nSelect ONE option.",
     "options": [
       "Participants should dedicate adequate time for the review",
       "Splitting large work products into small parts to make the required effort less intense",
@@ -250,7 +250,7 @@
     "set": "A",
     "id": 20,
     "language": "en",
-    "question": "You are testing a simplified apartment search form which has only two search criteria: • floor (with three possible options: ground floor; first floor; second or higher floor) • garden type (with three possible options: no garden; small garden; large garden) Each of the apartment on the ground floor has a garden, apartments on higher floors don’t. The form has a built-in validation mechanism that will not allow you to use the search criteria which violate this rule. Each test has two input values: floor and garden type. You want to apply equivalence partitioning (EP) to cover each floor and each garden type in your tests. What is the minimal number of test cases to achieve 100% EP coverage for valid partitions?\nSelect ONE option Version 1.7 Page 14 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You are testing a simplified apartment search form which has only two search criteria: • floor (with three possible options: ground floor; first floor; second or higher floor) • garden type (with three possible options: no garden; small garden; large garden) Each of the apartment on the ground floor has a garden, apartments on higher floors don’t. The form has a built-in validation mechanism that will not allow you to use the search criteria which violate this rule. Each test has two input values: floor and garden type. You want to apply equivalence partitioning (EP) to cover each floor and each garden type in your tests. What is the minimal number of test cases to achieve 100% EP coverage for valid partitions?\nSelect ONE option",
     "options": [
       "3",
       "4",
@@ -263,7 +263,7 @@
     "set": "A",
     "id": 21,
     "language": "en",
-    "question": "You are testing a system that calculates the final course grade for a given student. The final grade is assigned based on the final result, according to the following rules: • 0 – 50 points: failed • 51 – 60 points: fair • 61 – 70 points: satisfactory • 71 – 80 points: good • 81 – 90 points: very good • 91 – 100 points: excellent You have prepared the following set of test cases: Final Final result grade TC1 91 excellent TC2 50 failed TC3 81 very good TC4 60 fair TC5 70 satisfactory TC6 80 good What is the 2-value boundary value analysis (BVA) coverage for the final result that is achieved with the existing test cases?\nSelect ONE option. Version 1.7 Page 15 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You are testing a system that calculates the final course grade for a given student. The final grade is assigned based on the final result, according to the following rules: • 0 – 50 points: failed • 51 – 60 points: fair • 61 – 70 points: satisfactory • 71 – 80 points: good • 81 – 90 points: very good • 91 – 100 points: excellent You have prepared the following set of test cases: Final Final result grade TC1 91 excellent TC2 50 failed TC3 81 very good TC4 60 fair TC5 70 satisfactory TC6 80 good What is the 2-value boundary value analysis (BVA) coverage for the final result that is achieved with the existing test cases?\nSelect ONE option.",
     "options": [
       "50%",
       "60%",
@@ -289,7 +289,7 @@
     "set": "A",
     "id": 23,
     "language": "en",
-    "question": "You test a system whose lifecycle is modeled by the state transition diagram shown below. The system starts in the INIT state and ends its operation in the OFF state. What is the MINIMAL number of test cases to achieve valid transitions coverage?\nSelect ONE option. Version 1.7 Page 16 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You test a system whose lifecycle is modeled by the state transition diagram shown below. The system starts in the INIT state and ends its operation in the OFF state. What is the MINIMAL number of test cases to achieve valid transitions coverage?\nSelect ONE option.",
     "options": [
       "4",
       "2",
@@ -341,7 +341,7 @@
     "set": "A",
     "id": 27,
     "language": "en",
-    "question": "In your project there has been a delay in the release of a brand-new application and test execution started late, but you have very detailed domain knowledge and good analytical skills. The full list of requirements has not yet been shared with the team, but management is asking for some test results to be presented. Which test technique fits BEST in this situation?\nSelect ONE option. Version 1.7 Page 17 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "In your project there has been a delay in the release of a brand-new application and test execution started late, but you have very detailed domain knowledge and good analytical skills. The full list of requirements has not yet been shared with the team, but management is asking for some test results to be presented. Which test technique fits BEST in this situation?\nSelect ONE option.",
     "options": [
       "Checklist-based testing",
       "Error guessing",
@@ -380,7 +380,7 @@
     "set": "A",
     "id": 30,
     "language": "en",
-    "question": "How do testers add value to iteration and release planning?\nSelect ONE option. Version 1.7 Page 18 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "How do testers add value to iteration and release planning?\nSelect ONE option.",
     "options": [
       "Testers determine the priority of the user stories to be developed",
       "Testers focus only on the functional aspects of the system to be tested",
@@ -419,7 +419,7 @@
     "set": "A",
     "id": 33,
     "language": "en",
-    "question": "You are testing a mobile application that allows users to find a nearby restaurant based on the type of food they want to eat. Consider the following list of test cases, priorities (i.e., a smaller number means a higher priority), and dependencies: Test case Logical Test condition covered Priority number dependency TC 001 Select type of food 3 none TC 002 Select restaurant 2 TC 001 TC 003 Get direction 1 TC 002 TC 004 Call restaurant 2 TC 002 TC 005 Make reservation 3 TC 002 Which of the following test cases should be executed as the third one?\nSelect ONE option. Version 1.7 Page 19 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You are testing a mobile application that allows users to find a nearby restaurant based on the type of food they want to eat. Consider the following list of test cases, priorities (i.e., a smaller number means a higher priority), and dependencies: Test case Logical Test condition covered Priority number dependency TC 001 Select type of food 3 none TC 002 Select restaurant 2 TC 001 TC 003 Get direction 1 TC 002 TC 004 Call restaurant 2 TC 002 TC 005 Make reservation 3 TC 002 Which of the following test cases should be executed as the third one?\nSelect ONE option.",
     "options": [
       "TC 003",
       "TC 005",
@@ -445,7 +445,7 @@
     "set": "A",
     "id": 35,
     "language": "en",
-    "question": "During a risk analysis the following risk was identified and assessed: • Risk: Response time is too long to generate a report • Risk likelihood: medium; risk impact: high • Response to risk: o An independent test team performs performance efficiency testing during system testing o A selected sample of end users performs alpha testing and beta testing before the release What measure is proposed to be taken in response to this analyzed risk?\nSelect ONE option. Version 1.7 Page 20 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "During a risk analysis the following risk was identified and assessed: • Risk: Response time is too long to generate a report • Risk likelihood: medium; risk impact: high • Response to risk: o An independent test team performs performance efficiency testing during system testing o A selected sample of end users performs alpha testing and beta testing before the release What measure is proposed to be taken in response to this analyzed risk?\nSelect ONE option.",
     "options": [
       "Risk acceptance",
       "Contingency plan",
@@ -484,7 +484,7 @@
     "set": "A",
     "id": 38,
     "language": "en",
-    "question": "You received the following defect report from the developers stating that the anomaly described in this test report is not reproducible. Application hangs up 2022-May-03 – John Doe – Rejected The application hangs up after entering “Test input: $ä” in the Name field on the new user creation screen. Tried to log off, log in with test_admin01 account, same issue. Tried with other test admin accounts, same issue. No error message received; log (see attached) contains fatal error notification. Based on the test case TC-1305, the application should accept the provided input and create the user. Please fix with high priority, this feature is related to REQ-0012, which is a critical new business requirement. What critical information is MISSING from this test report that would have been useful for the developers?\nSelect ONE option. Version 1.7 Page 21 of 31 Release April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exams set A Sample Exam – Questions",
+    "question": "You received the following defect report from the developers stating that the anomaly described in this test report is not reproducible. Application hangs up 2022-May-03 – John Doe – Rejected The application hangs up after entering “Test input: $ä” in the Name field on the new user creation screen. Tried to log off, log in with test_admin01 account, same issue. Tried with other test admin accounts, same issue. No error message received; log (see attached) contains fatal error notification. Based on the test case TC-1305, the application should accept the provided input and create the user. Please fix with high priority, this feature is related to REQ-0012, which is a critical new business requirement. What critical information is MISSING from this test report that would have been useful for the developers?\nSelect ONE option.",
     "options": [
       "Expected result and actual result",
       "References and defect status",
@@ -510,7 +510,7 @@
     "set": "A",
     "id": 40,
     "language": "en",
-    "question": "Which item correctly identifies a potential risk of performing test automation?\nSelect ONE option. Version 1.7 Page 31 of 31 Release April 1, 2025 © International Software Testing Qualifications Board",
+    "question": "Which item correctly identifies a potential risk of performing test automation?\nSelect ONE option.",
     "options": [
       "Impediments to testing",
       "Branch coverage achieved",
@@ -562,7 +562,7 @@
     "set": "B",
     "id": 4,
     "language": "en",
-    "question": "Which test activity involves working with test data requirements, test conditions, test environment requirements and test cases?\nSelect ONE option. Version 1.7 Page 6 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Which test activity involves working with test data requirements, test conditions, test environment requirements and test cases?\nSelect ONE option.",
     "options": [
       "Test design",
       "Test execution",
@@ -614,7 +614,7 @@
     "set": "B",
     "id": 8,
     "language": "en",
-    "question": "Which of the following is an advantage of the whole-team approach?\nSelect ONE option. Version 1.7 Page 7 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Which of the following is an advantage of the whole-team approach?\nSelect ONE option.",
     "options": [
       "It allows team members to take on any role at any time",
       "It only needs a single team to support the complete development project",
@@ -666,7 +666,7 @@
     "set": "B",
     "id": 12,
     "language": "en",
-    "question": "Which of the following statements about DevOps is CORRECT?\nSelect ONE option. Version 1.7 Page 8 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Which of the following statements about DevOps is CORRECT?\nSelect ONE option.",
     "options": [
       "To speed up releases, continuous integration is used to encourage developers to submit code quickly without the need to complete component testing",
       "To be able to update and release systems on a more frequent basis, many automated regression tests are required to reduce the risk of regression",
@@ -718,7 +718,7 @@
     "set": "B",
     "id": 16,
     "language": "en",
-    "question": "Which of the following is a benefit of early and frequent stakeholder feedback?\nSelect ONE option. Version 1.7 Page 9 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Which of the following is a benefit of early and frequent stakeholder feedback?\nSelect ONE option.",
     "options": [
       "Managers are aware of which developers are less productive",
       "It allows project managers to prioritize their stakeholder interactions",
@@ -744,7 +744,7 @@
     "set": "B",
     "id": 18,
     "language": "en",
-    "question": "Given the following roles in reviews: 1. Scribe 2. Review leader 3. Facilitator 4. Manager And the following responsibilities in reviews: A. Ensures the effective running of review meetings and the setting up a safe review environment B. Records review information, such as decisions and new anomalies found during the review meeting C. Decides what is to be reviewed and provides resources, such as staff and time for the review D. Takes overall responsibility for the review such as organizing when and where the review will take place Which of the following BEST matches the roles and responsibilities?\nSelect ONE option. Version 1.7 Page 10 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Given the following roles in reviews: 1. Scribe 2. Review leader 3. Facilitator 4. Manager And the following responsibilities in reviews: A. Ensures the effective running of review meetings and the setting up a safe review environment B. Records review information, such as decisions and new anomalies found during the review meeting C. Decides what is to be reviewed and provides resources, such as staff and time for the review D. Takes overall responsibility for the review such as organizing when and where the review will take place Which of the following BEST matches the roles and responsibilities?\nSelect ONE option.",
     "options": [
       "1A, 2B, 3D, 4C",
       "1A, 2C, 3B, 4D",
@@ -770,7 +770,7 @@
     "set": "B",
     "id": 20,
     "language": "en",
-    "question": "Customers of the TestWash car wash chain have cards with a record of the number of washes they have bought so far. The initial value is 0. After entering the car wash, the system increases the number on the card by one. This value represents the number of the current wash. Based on this number the system decides what discount the customer is entitled to. For every tenth wash the system gives a 10% discount, and for every twentieth wash, the system gives a further 40% discount (i.e., a 50% discount in total). Which of the following sets of input data (understood as the numbers of the current wash) achieves the highest equivalence partition coverage?\nSelect ONE option. Version 1.7 Page 11 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Customers of the TestWash car wash chain have cards with a record of the number of washes they have bought so far. The initial value is 0. After entering the car wash, the system increases the number on the card by one. This value represents the number of the current wash. Based on this number the system decides what discount the customer is entitled to. For every tenth wash the system gives a 10% discount, and for every twentieth wash, the system gives a further 40% discount (i.e., a 50% discount in total). Which of the following sets of input data (understood as the numbers of the current wash) achieves the highest equivalence partition coverage?\nSelect ONE option.",
     "options": [
       "19, 20, 30",
       "11, 12, 20",
@@ -783,7 +783,7 @@
     "set": "B",
     "id": 21,
     "language": "en",
-    "question": "You are testing a form that verifies the correctness of the length of the password given as input. The form accepts a password with the correct length and rejects a password that is too short or too long. The password length is correct if it has between 6 and 12 characters inclusive. Otherwise, it is considered incorrect. At first, the form is empty (password length = 0). You apply boundary value analysis to the “password length” variable. Your set of test cases achieves 100% 2-value boundary value coverage. The team decided that due to the high risk of this component, test cases should be added to ensure 100% 3-value boundary value coverage. Which additional password lengths should be tested to achieve this?\nSelect ONE option. Version 1.7 Page 12 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "You are testing a form that verifies the correctness of the length of the password given as input. The form accepts a password with the correct length and rejects a password that is too short or too long. The password length is correct if it has between 6 and 12 characters inclusive. Otherwise, it is considered incorrect. At first, the form is empty (password length = 0). You apply boundary value analysis to the “password length” variable. Your set of test cases achieves 100% 2-value boundary value coverage. The team decided that due to the high risk of this component, test cases should be added to ensure 100% 3-value boundary value coverage. Which additional password lengths should be tested to achieve this?\nSelect ONE option.",
     "options": [
       "4, 5, 13, 14",
       "7, 11",
@@ -796,7 +796,7 @@
     "set": "B",
     "id": 22,
     "language": "en",
-    "question": "The following decision table contains the rules for determining the risk of atherosclerosis. Rule 1 Rule 2 Rule 3 Rule 4 Rule 5 Conditions Cholesterol (mg/dl) 125 – 125 – ≤124 ≤ 124 ≥ 201 200 200 Blood pressure (mm ≤ 140 > 140 ≤ 140 > 140 – Hg) Action Risk level very low low medium high very high You designed the test cases with the following input data: TC1: Cholesterol = 125 mg/dl Blood pressure = 141 mm Hg TC2: Cholesterol = 200 mg/dl Blood pressure = 201 mm Hg TC3: Cholesterol = 124 mg/dl Blood pressure = 201 mm Hg TC4: Cholesterol = 109 mg/dl Blood pressure = 200 mm Hg TC5: Cholesterol = 201 mg/dl Blood pressure = 140 mm Hg What is the decision table coverage achieved by these test cases?\nSelect ONE option. Version 1.7 Page 13 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "The following decision table contains the rules for determining the risk of atherosclerosis. Rule 1 Rule 2 Rule 3 Rule 4 Rule 5 Conditions Cholesterol (mg/dl) 125 – 125 – ≤124 ≤ 124 ≥ 201 200 200 Blood pressure (mm ≤ 140 > 140 ≤ 140 > 140 – Hg) Action Risk level very low low medium high very high You designed the test cases with the following input data: TC1: Cholesterol = 125 mg/dl Blood pressure = 141 mm Hg TC2: Cholesterol = 200 mg/dl Blood pressure = 201 mm Hg TC3: Cholesterol = 124 mg/dl Blood pressure = 201 mm Hg TC4: Cholesterol = 109 mg/dl Blood pressure = 200 mm Hg TC5: Cholesterol = 201 mg/dl Blood pressure = 140 mm Hg What is the decision table coverage achieved by these test cases?\nSelect ONE option.",
     "options": [
       "40%",
       "60%",
@@ -822,7 +822,7 @@
     "set": "B",
     "id": 24,
     "language": "en",
-    "question": "You run two test cases, T1 and T2, on the same code. Test T1 achieved 40% statement coverage and test T2 achieved 65% statement coverage. Which of the following sentences must be necessarily true?\nSelect ONE option. Version 1.7 Page 14 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "You run two test cases, T1 and T2, on the same code. Test T1 achieved 40% statement coverage and test T2 achieved 65% statement coverage. Which of the following sentences must be necessarily true?\nSelect ONE option.",
     "options": [
       "The test suite composed of tests T1 and T2 achieves 105% statement coverage",
       "There exists at least one statement that must have been executed by both T1 and T2",
@@ -861,7 +861,7 @@
     "set": "B",
     "id": 27,
     "language": "en",
-    "question": "Which of the following BEST fits as an element of the checklist used in checklist-based testing?\nSelect ONE option. Version 1.7 Page 15 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Which of the following BEST fits as an element of the checklist used in checklist-based testing?\nSelect ONE option.",
     "options": [
       "“The developer made an error when implementing the code”",
       "“The achieved statement coverage exceeds 85%”",
@@ -887,7 +887,7 @@
     "set": "B",
     "id": 29,
     "language": "en",
-    "question": "Your team analyzes the following user story in order to define the acceptance criteria: As a registered customer, I want to be able to view my previous orders on the company's website, so that I can keep track of my purchases. Which of the following test cases will NOT be relevant for this user story?\nSelect ONE option. Version 1.7 Page 16 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "Your team analyzes the following user story in order to define the acceptance criteria: As a registered customer, I want to be able to view my previous orders on the company's website, so that I can keep track of my purchases. Which of the following test cases will NOT be relevant for this user story?\nSelect ONE option.",
     "options": [
       "Input: the customer logs into their account on the website and clicks the “see order history” button Expected result: the system shows a list of all the customer’s previous orders, including the date, order number, and total cost",
       "Input: the customer clicks on an order from the order list Expected result: the system displays the individual items purchased, along with their prices and quantities",
@@ -913,7 +913,7 @@
     "set": "B",
     "id": 31,
     "language": "en",
-    "question": "You want to estimate the test effort for the new project using estimation based on ratios. You calculate the test-to-development effort ratio using averaged data for both development effort and test effort from four historical projects similar to the new one. The table shows this historical data. Project Development effort Test effort ($) ($) P1 800,000 40,000 P2 1,200,000 130,000 P3 600,000 70,000 P4 1,000,000 120,000 The estimated development effort for the new project is $800,000. What is your estimate of the test effort in this project?\nSelect ONE option. Version 1.7 Page 17 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "You want to estimate the test effort for the new project using estimation based on ratios. You calculate the test-to-development effort ratio using averaged data for both development effort and test effort from four historical projects similar to the new one. The table shows this historical data. Project Development effort Test effort ($) ($) P1 800,000 40,000 P2 1,200,000 130,000 P3 600,000 70,000 P4 1,000,000 120,000 The estimated development effort for the new project is $800,000. What is your estimate of the test effort in this project?\nSelect ONE option.",
     "options": [
       "$40,000",
       "$80,000",
@@ -939,7 +939,7 @@
     "set": "B",
     "id": 33,
     "language": "en",
-    "question": "According to the testing quadrants model, which of the following falls into quadrant Q1 (“technology facing” and “support the team”)?\nSelect ONE option. Version 1.7 Page 18 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "According to the testing quadrants model, which of the following falls into quadrant Q1 (“technology facing” and “support the team”)?\nSelect ONE option.",
     "options": [
       "Usability testing",
       "Functional testing",
@@ -978,7 +978,7 @@
     "set": "B",
     "id": 36,
     "language": "en",
-    "question": "You are a member of a test team located in North America, developing a product for a client located in Europe. The team is agile and follows the DevOps approach and uses a continuous integration/continuous delivery pipeline. Which of the following is the LEAST effective way to communicate test progress to the customer?\nSelect ONE option. Version 1.7 Page 19 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "You are a member of a test team located in North America, developing a product for a client located in Europe. The team is agile and follows the DevOps approach and uses a continuous integration/continuous delivery pipeline. Which of the following is the LEAST effective way to communicate test progress to the customer?\nSelect ONE option.",
     "options": [
       "Face-to-face",
       "Dashboards",
@@ -1004,7 +1004,7 @@
     "set": "B",
     "id": 38,
     "language": "en",
-    "question": "You are testing a sort function that gets a set of numbers as input and returns the same set of numbers sorted in ascending order. The log from the test execution looks as follows. Environment configuration: sort function build 2.002.2182, test case set: TCS-3, # of TCs: 5 Test run ID: 736 Start 12:43:21.003 12:43:21.003 Execution of TC1. Input: 3. Output: 3. Result: passed 12:43:21.003 Execution of TC2. Input: 3 11 6 5. Output: 3 5 6 11. Result: passed 12:43:21.004 Execution of TC3. Input: 8 7 3 7 1. Output: 1 3 7 8. Result: failed 12:43:21.005 Execution of TC4. Input: -2 -2 -2 -3 -3. Output: -3 -2. Result: failed 12:43:21.005 Execution of TC5. Input: 0 -2 0 3 4 4. Output: -2 0 3 4. Result: failed End 12:43:21.005 Total time of test cycle: 0:00:00.002 Which of the following provides the BEST description of the failure that can be used in a defect report?\nSelect ONE option. Version 1.7 Page 20 of 21 April 1, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set B Sample Exam – Questions",
+    "question": "You are testing a sort function that gets a set of numbers as input and returns the same set of numbers sorted in ascending order. The log from the test execution looks as follows. Environment configuration: sort function build 2.002.2182, test case set: TCS-3, # of TCs: 5 Test run ID: 736 Start 12:43:21.003 12:43:21.003 Execution of TC1. Input: 3. Output: 3. Result: passed 12:43:21.003 Execution of TC2. Input: 3 11 6 5. Output: 3 5 6 11. Result: passed 12:43:21.004 Execution of TC3. Input: 8 7 3 7 1. Output: 1 3 7 8. Result: failed 12:43:21.005 Execution of TC4. Input: -2 -2 -2 -3 -3. Output: -3 -2. Result: failed 12:43:21.005 Execution of TC5. Input: 0 -2 0 3 4 4. Output: -2 0 3 4. Result: failed End 12:43:21.005 Total time of test cycle: 0:00:00.002 Which of the following provides the BEST description of the failure that can be used in a defect report?\nSelect ONE option.",
     "options": [
       "The system fails to sort several sets of numbers. Reference: TC3, TC4, TC5.",
       "The system seems to disregard duplicates while sorting. Reference: TC3, TC4, TC5.",
@@ -1030,7 +1030,7 @@
     "set": "B",
     "id": 40,
     "language": "en",
-    "question": "Which of the following is MOST likely to be a benefit of test automation?\nSelect ONE option. Version 1.7 Page 21 of 21 April 1, 2025 © International Software Testing Qualifications Board",
+    "question": "Which of the following is MOST likely to be a benefit of test automation?\nSelect ONE option.",
     "options": [
       "It provides coverage measures that are too complicated for humans to derive",
       "It shares responsibility for the testing with the tool vendor",
@@ -1082,7 +1082,7 @@
     "set": "C",
     "id": 4,
     "language": "en",
-    "question": "Which of the following test activities are MOST likely to involve the application of boundary value analysis and equivalence partitioning?\nSelect TWO options. Version 1.6 Page 6 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following test activities are MOST likely to involve the application of boundary value analysis and equivalence partitioning?\nSelect TWO options. Version 1.6 Page 6 of 21 March 25, 2025",
     "options": [
       "Test implementation",
       "Test design",
@@ -1121,7 +1121,7 @@
     "set": "C",
     "id": 7,
     "language": "en",
-    "question": "Which of the following is an advantage of the whole-team approach?\nSelect ONE option. Version 1.6 Page 7 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following is an advantage of the whole-team approach?\nSelect ONE option. Version 1.6 Page 7 of 21 March 25, 2025",
     "options": [
       "Teams with no testers",
       "Improved team dynamics",
@@ -1160,7 +1160,7 @@
     "set": "C",
     "id": 10,
     "language": "en",
-    "question": "Which of the following is an example of a test-first approach to development?\nSelect ONE option. Version 1.6 Page 8 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following is an example of a test-first approach to development?\nSelect ONE option. Version 1.6 Page 8 of 21 March 25, 2025",
     "options": [
       "Component Test-Driven Development",
       "Integration Test-Driven Development",
@@ -1212,7 +1212,7 @@
     "set": "C",
     "id": 14,
     "language": "en",
-    "question": "The navigation system software has been updated due to it suggesting routes that break traffic laws, such as driving the wrong way down one-way streets. Which of the following BEST describes the testing that will be performed?\nSelect ONE option. Version 1.6 Page 9 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "The navigation system software has been updated due to it suggesting routes that break traffic laws, such as driving the wrong way down one-way streets. Which of the following BEST describes the testing that will be performed?\nSelect ONE option. Version 1.6 Page 9 of 21 March 25, 2025",
     "options": [
       "Only confirmation testing",
       "Confirmation testing then regression testing",
@@ -1238,7 +1238,7 @@
     "set": "C",
     "id": 16,
     "language": "en",
-    "question": "Which of the following is a benefit of early and frequent stakeholder feedback?\nSelect ONE option. Version 1.6 Page 10 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following is a benefit of early and frequent stakeholder feedback?\nSelect ONE option. Version 1.6 Page 10 of 21 March 25, 2025",
     "options": [
       "Changes to requirements are understood and implemented earlier",
       "It ensures business stakeholders understand user requirements",
@@ -1277,7 +1277,7 @@
     "set": "C",
     "id": 19,
     "language": "en",
-    "question": "What is the MAIN difference between black-box test techniques and experience-based test techniques?\nSelect ONE option. Version 1.6 Page 11 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "What is the MAIN difference between black-box test techniques and experience-based test techniques?\nSelect ONE option. Version 1.6 Page 11 of 21 March 25, 2025",
     "options": [
       "The test object",
       "The test level at which the test technique is used",
@@ -1303,7 +1303,7 @@
     "set": "C",
     "id": 21,
     "language": "en",
-    "question": "A developer was asked to implement the following business rule: INPUT: value (integer number) IF (value ≤ 100 OR value ≥ 200) THEN write “value incorrect” ELSE write “value OK” You design the test cases using 2-value boundary value analysis. Which of the following sets of test inputs achieves the greatest coverage?\nSelect ONE option. Version 1.6 Page 12 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "A developer was asked to implement the following business rule: INPUT: value (integer number) IF (value ≤ 100 OR value ≥ 200) THEN write “value incorrect” ELSE write “value OK” You design the test cases using 2-value boundary value analysis. Which of the following sets of test inputs achieves the greatest coverage?\nSelect ONE option. Version 1.6 Page 12 of 21 March 25, 2025",
     "options": [
       "100, 150, 200, 201",
       "99, 100, 200, 201",
@@ -1316,7 +1316,7 @@
     "set": "C",
     "id": 22,
     "language": "en",
-    "question": "You are working on a project to develop a system to analyze driving test results. You have been asked to design test cases based on the following decision table. R1 R2 R3 C1: First attempt at the exam? - - F C2: Theoretical exam passed? T F - C3: Practical exam passed? T - F Issue a driving license? X Request additional driving lessons? X Request to take the exam again? X What test data will show that there are contradictory rules in the decision table?\nSelect ONE option. Version 1.6 Page 13 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "You are working on a project to develop a system to analyze driving test results. You have been asked to design test cases based on the following decision table. R1 R2 R3 C1: First attempt at the exam? - - F C2: Theoretical exam passed? T F - C3: Practical exam passed? T - F Issue a driving license? X Request additional driving lessons? X Request to take the exam again? X What test data will show that there are contradictory rules in the decision table?\nSelect ONE option. Version 1.6 Page 13 of 21 March 25, 2025",
     "options": [
       "C1 = T, C2 = T, C3 = F",
       "C1 = T, C2 = F, C3 = T",
@@ -1329,7 +1329,7 @@
     "set": "C",
     "id": 23,
     "language": "en",
-    "question": "You are designing test cases based on the following state transition diagram: What is the MINIMUM number of test cases required to achieve 100% valid transitions coverage?\nSelect ONE option. Version 1.6 Page 14 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "You are designing test cases based on the following state transition diagram: What is the MINIMUM number of test cases required to achieve 100% valid transitions coverage?\nSelect ONE option. Version 1.6 Page 14 of 21 March 25, 2025",
     "options": [
       "3",
       "2",
@@ -1355,7 +1355,7 @@
     "set": "C",
     "id": 25,
     "language": "en",
-    "question": "How can white-box testing be useful in support of black-box testing?\nSelect ONE option. Version 1.6 Page 15 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "How can white-box testing be useful in support of black-box testing?\nSelect ONE option. Version 1.6 Page 15 of 21 March 25, 2025",
     "options": [
       "White-box coverage measures can help testers evaluate black-box tests in terms of the code coverage achieved by these black-box tests",
       "White-box coverage analysis can help testers identify unreachable fragments of the source code",
@@ -1394,7 +1394,7 @@
     "set": "C",
     "id": 28,
     "language": "en",
-    "question": "Which of the following provides the BEST example of a scenario-oriented acceptance criterion?\nSelect ONE option. Version 1.6 Page 16 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following provides the BEST example of a scenario-oriented acceptance criterion?\nSelect ONE option. Version 1.6 Page 16 of 21 March 25, 2025",
     "options": [
       "The application must allow users to delete their account and all associated data upon request",
       "When a customer adds an item to their cart and proceeds to checkout, they should be prompted to log in or create an account if they haven’t already done so",
@@ -1420,7 +1420,7 @@
     "set": "C",
     "id": 30,
     "language": "en",
-    "question": "Which of the following is NOT a purpose of a test plan?\nSelect ONE option. Version 1.6 Page 17 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following is NOT a purpose of a test plan?\nSelect ONE option. Version 1.6 Page 17 of 21 March 25, 2025",
     "options": [
       "To define test data and expected results for component tests and component integration tests",
       "To define as exit criteria from the component test level that “100% statement coverage and 100% branch coverage must be achieved”",
@@ -1433,7 +1433,7 @@
     "set": "C",
     "id": 31,
     "language": "en",
-    "question": "At the beginning of each iteration, the team estimates the amount of work (in person-days) they will need to complete during the iteration. Let E(n) be the estimated amount of work for iteration n, and let A(n) be the actual amount of work done in iteration n. From the third iteration, the team uses the following estimation model based on extrapolation: 3∗𝐴(𝑛−1)+𝐴(𝑛−2) 𝐸(𝑛)= 4 The graph shows the estimated and actual amount of work for the first four iterations. Estimated and actual effort (in person-days) 13 12 11 10 9 8 7 6 5 4 3 2 1 0 Iteration #1 Iteration #2 Iteration #3 Iteration #4 Estimated Actual What is the estimated amount of work for iteration #5?\nSelect ONE option. Version 1.6 Page 18 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "At the beginning of each iteration, the team estimates the amount of work (in person-days) they will need to complete during the iteration. Let E(n) be the estimated amount of work for iteration n, and let A(n) be the actual amount of work done in iteration n. From the third iteration, the team uses the following estimation model based on extrapolation: 3∗𝐴(𝑛−1)+𝐴(𝑛−2) 𝐸(𝑛)= 4 The graph shows the estimated and actual amount of work for the first four iterations. Estimated and actual effort (in person-days) 13 12 11 10 9 8 7 6 5 4 3 2 1 0 Iteration #1 Iteration #2 Iteration #3 Iteration #4 Estimated Actual What is the estimated amount of work for iteration #5?\nSelect ONE option. Version 1.6 Page 18 of 21 March 25, 2025",
     "options": [
       "10.5 person-days",
       "8.25 person-days",
@@ -1472,7 +1472,7 @@
     "set": "C",
     "id": 34,
     "language": "en",
-    "question": "What is the relationship between the testing quadrants, test levels and test types?\nSelect ONE option. Version 1.6 Page 19 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "What is the relationship between the testing quadrants, test levels and test types?\nSelect ONE option. Version 1.6 Page 19 of 21 March 25, 2025",
     "options": [
       "Testing quadrants represent particular combinations of test levels and test types, defining their location in the software development lifecycle",
       "Testing quadrants describe the degree of granularity of individual test types performed at each test level",
@@ -1511,7 +1511,7 @@
     "set": "C",
     "id": 37,
     "language": "en",
-    "question": "Which of the following is NOT an example of how configuration management supports testing?\nSelect ONE option. Version 1.6 Page 20 of 21 March 25, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set C Sample Exam – Questions",
+    "question": "Which of the following is NOT an example of how configuration management supports testing?\nSelect ONE option. Version 1.6 Page 20 of 21 March 25, 2025",
     "options": [
       "All commits to the repository are uniquely identified and version controlled",
       "All changes in the test environment elements are tracked",
@@ -1550,7 +1550,7 @@
     "set": "C",
     "id": 40,
     "language": "en",
-    "question": "Which of the following is MOST likely to be a benefit of test automation?\nSelect ONE option. Version 1.6 Page 21 of 21 March 25, 2025 © International Software Testing Qualifications Board",
+    "question": "Which of the following is MOST likely to be a benefit of test automation?\nSelect ONE option. Version 1.6 Page 21 of 21 March 25, 2025",
     "options": [
       "The capability of generating test cases without access to the test basis",
       "The achievement of increased coverage through more objective assessment",
@@ -1589,7 +1589,7 @@
     "set": "D",
     "id": 3,
     "language": "en",
-    "question": "Test conditions are being used by testers to generate test cases and execute tests. Even though the test conditions remain the same, the test cases are varied each time. Which of the following ‘principles of testing’ is being addressed through the variation of test cases?\nSelect ONE option. Version 1.5 Page 6 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Test conditions are being used by testers to generate test cases and execute tests. Even though the test conditions remain the same, the test cases are varied each time. Which of the following ‘principles of testing’ is being addressed through the variation of test cases?\nSelect ONE option. Version 1.5 Page 6 of 20 May 2, 2025",
     "options": [
       "Tests wear out",
       "Absence-of-defects fallacy",
@@ -1615,7 +1615,7 @@
     "set": "D",
     "id": 6,
     "language": "en",
-    "question": "Which of the following is MOST likely to describe a task performed by someone in a test management role?\nSelect ONE option. Version 1.5 Page 7 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which of the following is MOST likely to describe a task performed by someone in a test management role?\nSelect ONE option. Version 1.5 Page 7 of 20 May 2, 2025",
     "options": [
       "Evaluate the test basis and the test object",
       "Define test environment requirements",
@@ -1667,7 +1667,7 @@
     "set": "D",
     "id": 10,
     "language": "en",
-    "question": "Which of the following is an example of a test-first approach to development?\nSelect ONE option. Version 1.5 Page 8 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which of the following is an example of a test-first approach to development?\nSelect ONE option. Version 1.5 Page 8 of 20 May 2, 2025",
     "options": [
       "Behavior-Driven Development",
       "Test Level Driven Development",
@@ -1719,7 +1719,7 @@
     "set": "D",
     "id": 14,
     "language": "en",
-    "question": "Which of the following is MOST likely to be a trigger that leads to maintenance testing of a currency exchange system?\nSelect ONE option. Version 1.5 Page 9 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which of the following is MOST likely to be a trigger that leads to maintenance testing of a currency exchange system?\nSelect ONE option. Version 1.5 Page 9 of 20 May 2, 2025",
     "options": [
       "The developers reported that changing the currency exchange system was difficult and the testers decided to check if this was true",
       "The refund option of the currency exchange system was removed as it did not always repay the correct amount to customers",
@@ -1758,7 +1758,7 @@
     "set": "D",
     "id": 17,
     "language": "en",
-    "question": "Given the following descriptions of review activities: 1. Detected anomalies are deliberated upon, and determinations are reached regarding their status, ownership, and any further steps needed 2. Defects are recorded, and any needed updates are addressed prior to the acceptance of the work product 3. Reviewers employ techniques to come up with suggestions and questions about the work product and to spot anomalies 4. The objective of the review and its schedule are established to ensure a focused and efficient review 5. Participants are provided with access to the item being reviewed Which of the following is the CORRECT sequence in the review process of the activities that correspond to the descriptions?\nSelect ONE option. Version 1.5 Page 10 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Given the following descriptions of review activities: 1. Detected anomalies are deliberated upon, and determinations are reached regarding their status, ownership, and any further steps needed 2. Defects are recorded, and any needed updates are addressed prior to the acceptance of the work product 3. Reviewers employ techniques to come up with suggestions and questions about the work product and to spot anomalies 4. The objective of the review and its schedule are established to ensure a focused and efficient review 5. Participants are provided with access to the item being reviewed Which of the following is the CORRECT sequence in the review process of the activities that correspond to the descriptions?\nSelect ONE option. Version 1.5 Page 10 of 20 May 2, 2025",
     "options": [
       "4 – 3 – 5 – 2 – 1",
       "4 – 5 – 3 – 1 – 2",
@@ -1784,7 +1784,7 @@
     "set": "D",
     "id": 19,
     "language": "en",
-    "question": "You perform system testing of an e-commerce web application and are provided with the following requirement: REQ 05-017. If the total cost of purchases exceeds $100, the customer gets a 5% discount on subsequent purchases. Otherwise, the customer does not receive a discount. Which test techniques will be MOST helpful in designing test cases based on this requirement?\nSelect ONE option. Version 1.5 Page 11 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "You perform system testing of an e-commerce web application and are provided with the following requirement: REQ 05-017. If the total cost of purchases exceeds $100, the customer gets a 5% discount on subsequent purchases. Otherwise, the customer does not receive a discount. Which test techniques will be MOST helpful in designing test cases based on this requirement?\nSelect ONE option. Version 1.5 Page 11 of 20 May 2, 2025",
     "options": [
       "White-box test techniques",
       "Black-box test techniques",
@@ -1810,7 +1810,7 @@
     "set": "D",
     "id": 21,
     "language": "en",
-    "question": "You are testing a temperature control system for a horticultural cold storage facility. The system receives the temperature (in full degrees Celsius) as the input. If the temperature is between 0 and 2 degrees inclusive, the system displays the message “temperature OK”. For lower temperatures, the system displays the message \"temperature too low\" and for higher temperatures it displays the message “temperature too high”. Using two-value boundary value analysis, which of the following sets of test inputs provides the highest level of boundary value coverage?\nSelect ONE option. Version 1.5 Page 12 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "You are testing a temperature control system for a horticultural cold storage facility. The system receives the temperature (in full degrees Celsius) as the input. If the temperature is between 0 and 2 degrees inclusive, the system displays the message “temperature OK”. For lower temperatures, the system displays the message \"temperature too low\" and for higher temperatures it displays the message “temperature too high”. Using two-value boundary value analysis, which of the following sets of test inputs provides the highest level of boundary value coverage?\nSelect ONE option. Version 1.5 Page 12 of 20 May 2, 2025",
     "options": [
       "–1, 3",
       "0, 2",
@@ -1823,7 +1823,7 @@
     "set": "D",
     "id": 22,
     "language": "en",
-    "question": "You are designing test cases based on the following decision table. R1 R2 R3 R4 R5 R6 R7 C1: Age 0-18 19-65 19-65 >65 0-18 19-65 >65 C2: Experience - 0-4 >4 - - - - C3: Registered? NO NO NO NO YES YES YES Category A A B B B D C So far you have designed the following test cases: • TC1: 19-year-old, unregistered man with no experience; expected result: category A • TC2: 65-year-old, unregistered woman with 5 years of experience; expected result: category B • TC3: 66-year-old, registered man with no experience; expected result: category C • TC4: 65-year-old, registered woman with 4 years of experience; expected result: category D Which of the following test cases, when added to the existing set of test cases, will increase the decision table coverage?\nSelect ONE option. Version 1.5 Page 13 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "You are designing test cases based on the following decision table. R1 R2 R3 R4 R5 R6 R7 C1: Age 0-18 19-65 19-65 >65 0-18 19-65 >65 C2: Experience - 0-4 >4 - - - - C3: Registered? NO NO NO NO YES YES YES Category A A B B B D C So far you have designed the following test cases: • TC1: 19-year-old, unregistered man with no experience; expected result: category A • TC2: 65-year-old, unregistered woman with 5 years of experience; expected result: category B • TC3: 66-year-old, registered man with no experience; expected result: category C • TC4: 65-year-old, registered woman with 4 years of experience; expected result: category D Which of the following test cases, when added to the existing set of test cases, will increase the decision table coverage?\nSelect ONE option. Version 1.5 Page 13 of 20 May 2, 2025",
     "options": [
       "66-year-old, unregistered man with no experience; expected result: category B",
       "55-year-old, unregistered woman with 2 years of experience; expected result: category A",
@@ -1862,7 +1862,7 @@
     "set": "D",
     "id": 25,
     "language": "en",
-    "question": "Why does white-box testing facilitate defect detection even when the software specification is vague, outdated or incomplete?\nSelect ONE option. Version 1.5 Page 14 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Why does white-box testing facilitate defect detection even when the software specification is vague, outdated or incomplete?\nSelect ONE option. Version 1.5 Page 14 of 20 May 2, 2025",
     "options": [
       "Test cases are designed based on the structure of the test object rather than the specification",
       "For each white-box test technique the coverage can be well-defined and easily measured",
@@ -1901,7 +1901,7 @@
     "set": "D",
     "id": 28,
     "language": "en",
-    "question": "Which collaborative user story writing practice enables the team to achieve a collective understanding of what needs to be delivered?\nSelect ONE option. Version 1.5 Page 15 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which collaborative user story writing practice enables the team to achieve a collective understanding of what needs to be delivered?\nSelect ONE option. Version 1.5 Page 15 of 20 May 2, 2025",
     "options": [
       "Planning poker, so that a team can achieve consensus on the effort needed to implement a user story",
       "Reviews, so that a team can detect inconsistencies and contradictions in a user story",
@@ -1927,7 +1927,7 @@
     "set": "D",
     "id": 30,
     "language": "en",
-    "question": "Which of the following BEST define EXIT criteria in a testing project?\nSelect TWO options. Version 1.5 Page 16 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which of the following BEST define EXIT criteria in a testing project?\nSelect TWO options. Version 1.5 Page 16 of 20 May 2, 2025",
     "options": [
       "Budget is approved",
       "Budget runs out",
@@ -1953,7 +1953,7 @@
     "set": "D",
     "id": 32,
     "language": "en",
-    "question": "The table shows the traceability matrix from test cases to requirements. “X” means that a given test case covers the corresponding requirement. Req1 Req2 Req3 Req4 Req5 Req6 Req7 TC1 X X X X TC2 X X X TC3 X X TC4 X You want to prioritize the test cases following the additional coverage prioritization technique. You execute all four test cases. Which test case should be executed as the LAST one?\nSelect ONE options. Version 1.5 Page 17 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "The table shows the traceability matrix from test cases to requirements. “X” means that a given test case covers the corresponding requirement. Req1 Req2 Req3 Req4 Req5 Req6 Req7 TC1 X X X X TC2 X X X TC3 X X TC4 X You want to prioritize the test cases following the additional coverage prioritization technique. You execute all four test cases. Which test case should be executed as the LAST one?\nSelect ONE options. Version 1.5 Page 17 of 20 May 2, 2025",
     "options": [
       "TC1",
       "TC2",
@@ -2005,7 +2005,7 @@
     "set": "D",
     "id": 36,
     "language": "en",
-    "question": "Which of the following is NOT a valid purpose for a test report?\nSelect ONE options. Version 1.5 Page 18 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Which of the following is NOT a valid purpose for a test report?\nSelect ONE options. Version 1.5 Page 18 of 20 May 2, 2025",
     "options": [
       "Tracking test progress and identifying areas that require further attention",
       "Providing information on the tests executed, their results, and defects found",
@@ -2031,7 +2031,7 @@
     "set": "D",
     "id": 38,
     "language": "en",
-    "question": "Consider the following defect report for a Book Lending System. Defect ID: 001 | Title: Unable to Return a Book | Severity: High | Priority: | Environment: Windows 10, Google Chrome Description: When attempting to return a book using the Book Return feature, the system does not register the return and the book remains checked out to the user. Steps to Reproduce: Login to the Book Lending System as a user who has checked out a book. Click on the \"Book Return\" button for the book that has been checked out. System does not register the return and the book remains checked out. Expected Result: The book should be returned and no longer appear as checked out to the user. Actual Result: The book remains checked out to the user and is not registered as returned in the system. Attachments: [empty list] Which of the following is MOST likely to help the developer reproduce the failure quickly?\nSelect ONE options. Version 1.5 Page 19 of 20 May 2, 2025 © International Software Testing Qualifications Board Certified Tester, Foundation Level Sample Exam set D Sample Exam – Questions",
+    "question": "Consider the following defect report for a Book Lending System. Defect ID: 001 | Title: Unable to Return a Book | Severity: High | Priority: | Environment: Windows 10, Google Chrome Description: When attempting to return a book using the Book Return feature, the system does not register the return and the book remains checked out to the user. Steps to Reproduce: Login to the Book Lending System as a user who has checked out a book. Click on the \"Book Return\" button for the book that has been checked out. System does not register the return and the book remains checked out. Expected Result: The book should be returned and no longer appear as checked out to the user. Actual Result: The book remains checked out to the user and is not registered as returned in the system. Attachments: [empty list] Which of the following is MOST likely to help the developer reproduce the failure quickly?\nSelect ONE options. Version 1.5 Page 19 of 20 May 2, 2025",
     "options": [
       "Adding information about which users and which books the failure affects to the “Description” section",
       "Filling in the missing value for the “Priority” field",
@@ -2057,7 +2057,7 @@
     "set": "D",
     "id": 40,
     "language": "en",
-    "question": "Which of the following is MOST likely to be a risk of test automation?\nSelect ONE options. Version 1.5 Page 20 of 20 May 2, 2025 © International Software Testing Qualifications Board",
+    "question": "Which of the following is MOST likely to be a risk of test automation?\nSelect ONE options. Version 1.5 Page 20 of 20 May 2, 2025",
     "options": [
       "The detection of additional high-severity defects",
       "Providing measures that are too complicated for humans to derive",
